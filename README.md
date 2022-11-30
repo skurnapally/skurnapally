@@ -1,5 +1,5 @@
 <p align="center">
-<img  width="80" height="40" src="/images/Santhosh.png">
+![alt text](/images/Santhosh.png?raw=true)
 </p>
 <h2 align="center">Hey! Nice to see you. 👋🤓</h2>
 <p align="center">I am Santhosh Kurnapally, a machine learning engineer from Hyderabad,india :india:. Currently working at Infosys and formerly at Cognizant.
