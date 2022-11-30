@@ -53,7 +53,7 @@
 1. [Maths_for_Data_Science](###Maths_for_Data_Science)
 2. [Pre_Requisites_For_Data_Science](###Pre_Requisites_For_Data_Science)
 3. [Data_Analysis_And_Visualisation](###Data_Analysis_And_Visualisation)
-
+4. [Machine_Learning](###Machine_Learning)
 
 
 ### Maths_for_Data_Science
@@ -94,7 +94,7 @@
 
 
 <ul>
-<li>Important Concepts of Data Analysis and Visualisation <a href="https://github.com/skurnapally/ML_And_DL_Notes/blob/main/DataVisualisationandanalysis.docx">Notes</a> </li>
+<li>Important Detailed Notes For Data Analysis and Visualisation <a href="https://github.com/skurnapally/ML_And_DL_Notes/blob/main/DataVisualisationandanalysis.docx">Notes</a> </li>
 </ul>
 
 | Title        | Repository    | 
@@ -122,6 +122,48 @@
 |Dimensionality_Reduction: PCA (Principal Component Analysis)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
 |Dimensionality_Reduction: TSNE (T-Distributed Stochastic Neighbourhood Embedding)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
 |Dimensionality_Reduction: UMAP (Uniform Manifold Approximation and Projection for Dimension Reduction)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
+
+### Machine_Learning
+
+<ul>
+<li>Detailed Notes for Machine_Learning <a href="https://github.com/skurnapally/ML_And_DL_Notes/blob/main/Machine_Learning.docx">Notes</a> </li>
+</ul>
+
+| Title        | Implementation_From_Scratch    | Binary_Classification_Implementation/Regression |Multi_class_Classification_Implementation |Assignment
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+|Performance_Metrics| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Performance_Metrics/Performance%20metric.ipynb) ||| [🔗](https://github.com/skurnapally/Assignments/blob/main/Performance_Metrics/5_Performance_metrics_Instructions.ipynb) | 
+|KNN (K-Nearest Neighbours)| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/K-NN/Implementation_of_LSH_from_Scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/K-NN/Understanding_KNN_Decision_Boundries.ipynb) | [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/K-NN/Multi_Class_Classification_with_KNN.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/KNN/Implementation%20of%20Random_search_cv%20from%20scratch/Assignment_4_Instructions.ipynb) | 
+|Random_Search_CV| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/K-NN/Implementation_of_RandomSearchCV_from_scratch.ipynb) |  || | 
+|Grid_Search_CV| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/K-NN/Implementation_of_gridSearchCV_from_scratch.ipynb) |  |  |  | 
+|Naive_Bayes| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Naive%20Bayes/Understanding_Naive_Bayes_From_Scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Naive%20Bayes/Spam_Mail_detection_using_Naive_bayes.ipynb) |  | [🔗](https://github.com/skurnapally/Assignments/blob/main/Naive_Bayes/NB_Assignment_instructions.ipynb) | 
+|Stochastic_Gradient_Descent| [🔗](https://github.com/skurnapally/Assignments/blob/main/SGD%20using%20Logistic%20Loss/Custom_SGD_Assignment_LR.ipynb) |  |  | [🔗](https://github.com/skurnapally/Assignments/blob/main/SGD%20using%20Logistic%20Loss/Custom_SGD_Assignment_LR.ipynb) | 
+|Logistic_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Logistic%20Regression/Logistic_Regression_from_Scratch.ipynb) |  [🔗](Credit_Fraud_Detection_Using_LogisticRegression.ipynb) | [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Logistic%20Regression/Logistic_regression_for_multiclass.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/Logistic_Regression/Logistic_Regression_from_Scratch_Assignment.ipynb) | 
+|Linear_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Linear_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  | | 
+|Polynomial_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Polynomial_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) | |  | 
+|Lasso_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Lasso_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  | | 
+|Ridge_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Ridge_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  |  | 
+|Eastic_Net_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/ElasticNet_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  |  | 
+|Support_Vector_Classification| [🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Linear_Support_Vector_Classification_from_Scratch.ipynb)|[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Understanding_Support_Vector_Classification.ipynbv)|[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Support_Vector_Classification_for_multiclass.ipynb)|[🔗] (https://github.com/skurnapally/Assignments/tree/main/SVM)|
+|Support_Vector_Regression| |[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Implementation_of_Support_Vector_Regression.ipynb)| |[🔗] (https://github.com/skurnapally/Assignments/tree/main/SVM)|
+|One_Class_SVM_For_Outelier_detection| |[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/One_Class_SVM_for_Outlier_detection.ipynb)|||
+|Decision_Tree_Classification| [🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Decision_Tree_Classifier_from_Scratch.ipynb)|[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Implementing_Decisoin_Tree_Classifier%20_from_Sklearn.ipynb)|[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Implementing_Decision_Trees_in_MultiClass_Setting.ipynb)|[🔗] (https://github.com/skurnapally/Assignments/tree/main/Decision_Trees)|
+|Decision_Tree_Regression| [🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Decision_Tree_Regression_from_Scratch.ipynb)|[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Implementing_Decison_Tree_Regressor_from_Sklearn.ipynb)|||
+|Ensemble_Learning:Bagging:Bagging_Classifer| |[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Ensemble_Bagging_Classifer.ipynb)|||
+|Ensemble_Learning:Bagging:Bagging_Regressor| [🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Ensemble_Bagging_Regressor.ipynb)||||
+|Ensemble_Learning:Bagging:Random_Forest_Classifier| |[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_classifier___Extra_trees_classifier.ipynb)||[🔗] (https://github.com/skurnapally/Assignments/tree/main/Random_Forest)|
+|Ensemble_Learning:Bagging:Random_Forest_Regressor| |[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_regressor___Extra_trees_regressor.ipynb)|||
+|Ensemble_Learning:Bagging:Extra_Tree_Classifier| |[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_classifier___Extra_trees_classifier.ipynb)|||
+|Ensemble_Learning:Bagging:Extra_Tree_Regressor||[🔗] (https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_regressor___Extra_trees_regressor.ipynb)|||
+|Ensemble_Learning:Boosting:GBDT,ADA_Boost,XG_Boost,LightGBM_Classification||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Boosting/Implementation_of_boosting_on_classification_data.ipynb)||[🔗] (https://github.com/skurnapally/Assignments/blob/main/GBDT/Assignment_GBDT_Instructions.ipynb)|
+|Ensemble_Learning:Boosting:GBDT,ADA_Boost,XG_Boost,LightGBM_Regression||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Boosting/Implementation_of_boosting_on_regression_data.ipynb)|||
+|Ensemble_Learning:Stacking:Stacking_Classifier||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Classifer___Voting_classifier.ipynb)|||
+|Ensemble_Learning:Stacking:Stacking_Regressor||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Regressor___Voting_Regressor.ipynb.ipynb.ipynb)|||
+|Ensemble_Learning:Stacking:Voting_Classifier||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Classifer___Voting_classifier.ipynb)|||
+|Ensemble_Learning:Stacking:Voting_Regressor||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Regressor___Voting_Regressor.ipynb.ipynb.ipynb)|||
+|Ensemble_Learning:Cascading||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Cascading/Credit_Card_Fraud_Detection_using_cascading.ipynb)|||
+
+
+
 
 
 <h2>My Blogs on Medium</h2>
