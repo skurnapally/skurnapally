@@ -105,6 +105,7 @@
 |Text_Processing| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Amazon_Fine_Food_Reviews_Text_Data_Analysis.ipynb) | 
 |Implementing_TF_IDF_From_Scratch| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Implementing_TF_IDF_from_Scratch.ipynb) | 
 |Stats_Concepts:QQ_Plots| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/QQ_Plots___Distribution_Transformations.ipynb) | 
+|Stats_Concepts: Distribution_Transformations (BOX-COX, Yeo_Jhonson and Quantile Transformations)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/QQ_Plots___Distribution_Transformations.ipynb) | 
 |Stats_Concepts:KS_Test_For_Distribution_Similarity| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/KS_Test_For_Distribution_Similarity.ipynb) | 
 |Stats_Concepts:Hypothesis_testing| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Hypothesis_testing_Simulation.ipynb) | 
 |Stats_Concepts:Confidence_Intervals| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Confidence_Interval_Simulation.ipynb) | 
