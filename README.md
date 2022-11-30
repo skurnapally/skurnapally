@@ -83,7 +83,8 @@
 
 <li>📙 you can follow <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Hand Book</a>.</li>
 <li>📙 you can follow <a href="https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf">Introduction to Machine Learning with Python</a>.</li>
-<li>Python practice <a href="https://leetcode.com/problemset/all/">Leet cC Rank</a> </li>
+<li>Python practice <a href="https://leetcode.com/problemset/all/">Leet Code</a> </li>
+<li>Python practice <a href="https://www.hackerrank.com/dashboard">Hacker Rank</a> </li>
 
 
 <h2>My Blogs on Medium</h2>
