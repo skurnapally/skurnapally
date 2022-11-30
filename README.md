@@ -94,7 +94,7 @@
 
 
 <ul>
-<li>Important Detailed Notes For Data Analysis and Visualisation <a href="https://github.com/skurnapally/ML_And_DL_Notes/blob/main/DataVisualisationandanalysis.docx">Notes</a> </li>
+<li>Important Detailed Notes For Data Analysis and Visualisation <a href="https://docs.google.com/document/d/1kQ7T0PpkqN-5cLC7e5UXuyQtklzleNWe/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Notes</a> </li>
 </ul>
 
 | Title        | Repository    | 
@@ -126,7 +126,7 @@
 ### Machine_Learning
 
 <ul>
-<li>Detailed Notes for Machine_Learning <a href="https://github.com/skurnapally/ML_And_DL_Notes/blob/main/Machine_Learning.docx">Notes</a> </li>
+<li>Detailed Notes for Machine_Learning <a href="https://docs.google.com/document/d/1RwjR0TxJK7KsYyiYYFiX5x4e1zUx42Nk/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Notes</a> </li>
 </ul>
 
 | Title        | Implementation_From_Scratch    | Binary_Classification_Implementation/Regression |Multi_class_Classification_Implementation |Assignment
