@@ -100,7 +100,7 @@
 
 
 <ul>
-<li><a href="https://docs.google.com/document/d/1kQ7T0PpkqN-5cLC7e5UXuyQtklzleNWe/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click Here For Detailed Notes For Data Analysis and Visualisation</a> </li>
+<li><a href="https://docs.google.com/document/d/1kQ7T0PpkqN-5cLC7e5UXuyQtklzleNWe/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click Here For Detailed Data Analysis and Visualisation Notes</a> </li>
 </ul>
 
 | Title        | Repository    | 
