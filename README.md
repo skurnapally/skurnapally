@@ -177,6 +177,11 @@
 |Ensemble_Learning:Stacking:Voting_Regressor||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Regressor___Voting_Regressor.ipynb.ipynb.ipynb)||
 
 
+<ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1j3vZwK1v8CfrPGuDP5wtJXHm2uFcw5Ed/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Comparison of machine Learning Models</a> </li>
+</ul>
+
+
 
 ### Machine_Learning_Case_Studies
 
