@@ -38,7 +38,7 @@
 <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761732-3dd9dc48-6622-4813-94ee-e03b7596d575.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761788-72fe8f69-db6e-42ad-aa37-a0f3aa8743e4.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.kubeflow.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204764990-d66ed831-7c9d-4c19-8baa-86dab46fa0d4.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://streamlit.io/" target="_blank"> <img src="hhttps://user-images.githubusercontent.com/87708435/204761864-6220ef4a-8c3f-424f-9a1a-4456f41646c1.svg" alt="streamlit" width="40" height="40"/> </a> 
+<a href="https://streamlit.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761864-6220ef4a-8c3f-424f-9a1a-4456f41646c1.svg" alt="streamlit" width="40" height="40"/> </a> 
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761757-254fe66f-ce65-442e-b4cb-c1838760a122.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761872-c535c074-7e91-489e-8631-78c0e5799f88.svg" alt="ubuntu" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761754-ad07e644-2150-409b-8a47-afa4327a71c2.svg" alt="gcp" width="40" height="40"/> </a> 
