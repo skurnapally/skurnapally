@@ -18,6 +18,7 @@
 </ul>
 
 <h3>Things I code with</h3>
+![azure-1](https://user-images.githubusercontent.com/87708435/204749201-6d181c25-92bd-4fe2-b08e-14d44edeceba.svg)
 
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/skurnapally/skurnapally/blob/main/images/icons8-python.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://github.com/skurnapally/skurnapally/blob/main/images/icons8-anaconda.svg" alt="Anaconda" width="40" height="40"/> </a> 
