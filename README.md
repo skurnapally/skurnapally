@@ -54,8 +54,10 @@
 2. [Pre_Requisites_For_Data_Science](###Pre_Requisites_For_Data_Science)
 3. [Data_Analysis_And_Visualisation](###Data_Analysis_And_Visualisation)
 4. [Machine_Learning](###Machine_Learning)
+
 	4.1 [Classification](###Classification)
 	4.2 [Regression](###Regression)
+	
 5. [Machine_Learning_Case_Studies](###Machine_Learning_Case_Studies)
 
 
