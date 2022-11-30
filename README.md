@@ -97,13 +97,22 @@
 <li>Important Concepts of Data Analysis and Visualisation <a href="https://github.com/skurnapally/ML_And_DL_Notes/blob/main/DataVisualisationandanalysis.docx">Notes</a> </li>
 </ul>
 
-| Title        | Repository    | Assignment
-| ------------- |:-------------:|:-------------:|
-|EDA:UniVariate_Analysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) |  |
-|EDA:BiVariate_Anaysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | |
-|EDA:MultiVariate_Anaysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | |
-|Text_Processing| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Amazon_Fine_Food_Reviews_Text_Data_Analysis.ipynb) | |
-|Implementing_TF_IDF_From_Scratch| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Implementing_TF_IDF_from_Scratch.ipynb) | |
+| Title        | Repository    | 
+| ------------- |:-------------:|
+|EDA:UniVariate_Analysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
+|EDA:BiVariate_Anaysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
+|EDA:MultiVariate_Anaysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
+|Text_Processing| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Amazon_Fine_Food_Reviews_Text_Data_Analysis.ipynb) | 
+|Implementing_TF_IDF_From_Scratch| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Implementing_TF_IDF_from_Scratch.ipynb) | 
+|Stats_Concepts:QQ_Plots| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/QQ_Plots___Distribution_Transformations.ipynb) | 
+|Stats_Concepts:KS_Test_For_Distribution_Similarity| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/KS_Test_For_Distribution_Similarity.ipynb) | 
+|Stats_Concepts:Hypothesis_testing| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Hypothesis_testing_Simulation.ipynb) | 
+|Stats_Concepts:Confidence_Intervals| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Confidence_Interval_Simulation.ipynb) | 
+|Stats_Concepts:Central_Limit_Theorm| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Central_Limit_Theorm.ipynb) |
+|Stats_Concepts:Bootstraping_and_permutation_resampling_test| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Bootstraping_and_permutation_resampling_test.ipynb) | 
+|Stats_Concepts:Z_and_T_Tests| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Z_and_T_Tests.ipynb) | 
+|Stats_Concepts:Chi_Squared_Test| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Chi_Squared_Test.ipynb) | 
+|Stats_Concepts:ANOVA| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/ANOVA.ipynb) | 
 
 
 
