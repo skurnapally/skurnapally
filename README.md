@@ -69,17 +69,17 @@
 
 ### Pre_Requisites_For_Data_Science
 
-| Title        | Repository    | Cheat_Sheat
-| ------------- |:-------------:|:-------------:|
-|Python_for_Data_Science| [🔗](https://www.tutorialspoint.com/python3/python_tutorial.pdf) |  [🔗](https://www.interviewbit.com/python-cheat-sheet/) |  
-|Sorting| [🔗](https://github.com/skurnapally/Sorting_And_Searching) | [🔗](https://www.interviewcake.com/sorting-algorithm-cheat-sheet)|
-|Searching| [🔗](https://github.com/skurnapally/Sorting_And_Searching) | [🔗]()|
-|Numpy| [🔗](https://numpy.org/doc/stable/reference/routines.array-creation.html) | [🔗](https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf)|
-|Pandas| [🔗](https://pandas.pydata.org/docs/user_guide/10min.html)|  [🔗](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)|
-|Matplot_Lib| [🔗](https://matplotlib.org/stable/tutorials/introductory/quick_start.html) |  [🔗](https://matplotlib.org/cheatsheets/cheatsheets.pdf)|
-|Seaborn| [🔗](https://seaborn.pydata.org/api.html) |  [🔗](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)|
-|Flask| [🔗](https://www.tutorialspoint.com/flask/flask_tutorial.pdf) |  [🔗](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)|
-|SQL| [🔗](https://www.hcoe.edu.np/uploads/attachments/r96oytechsacgzi4.pdf) |  [🔗](https://www.interviewbit.com/sql-cheat-sheet/)|
+| Title        | Repository    | Cheat_Sheat | Assignment
+| ------------- |:-------------:|:-------------:|:-------------:|
+|Python_for_Data_Science| [🔗](https://www.tutorialspoint.com/python3/python_tutorial.pdf) |  [🔗](https://www.interviewbit.com/python-cheat-sheet/) |  [🔗](https://github.com/skurnapally/Assignments/tree/main/Python) |  
+|Sorting| [🔗](https://github.com/skurnapally/Sorting_And_Searching) | [🔗](https://www.interviewcake.com/sorting-algorithm-cheat-sheet)||
+|Searching| [🔗](https://github.com/skurnapally/Sorting_And_Searching) | [🔗]()| |
+|Numpy| [🔗](https://numpy.org/doc/stable/reference/routines.array-creation.html) | [🔗](https://s3.amazonaws.com/dq-blog-files/numpy-cheat-sheet.pdf)| |
+|Pandas| [🔗](https://pandas.pydata.org/docs/user_guide/10min.html)|  [🔗](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)|[🔗](https://github.com/skurnapally/Assignments/tree/main/Pandas) |  
+|Matplot_Lib| [🔗](https://matplotlib.org/stable/tutorials/introductory/quick_start.html) |  [🔗](https://matplotlib.org/cheatsheets/cheatsheets.pdf)| |
+|Seaborn| [🔗](https://seaborn.pydata.org/api.html) |  [🔗](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)| |
+|Flask| [🔗](https://www.tutorialspoint.com/flask/flask_tutorial.pdf) |  [🔗](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)| |
+|SQL| [🔗](https://www.hcoe.edu.np/uploads/attachments/r96oytechsacgzi4.pdf) |  [🔗](https://www.interviewbit.com/sql-cheat-sheet/)| [🔗](https://github.com/skurnapally/Assignments/tree/main/SQL) |  
 
 <li>📙 you can follow <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Hand Book</a>.</li>
 <li>📙 you can follow <a href="https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf">Introduction to Machine Learning with Python</a>.</li>
