@@ -43,7 +43,7 @@
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://github.com/skurnapally/skurnapally/blob/main/images/heroku-1.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/skurnapally/skurnapally/blob/main/images/ubuntu-2.svg" alt="ubuntu" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://github.com/skurnapally/skurnapally/blob/main/images/google-cloud-1.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://github.com/skurnapally/skurnapally/blob/main/images/azure-1.svg" alt="azure" width="40" height="40"/> </a> 
+<a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204749201-6d181c25-92bd-4fe2-b08e-14d44edeceba.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/skurnapally/skurnapally/blob/main/images/PostgreSQL_logo.3colors.svg" alt="sql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/home" target="_blank"> <img src="https://github.com/skurnapally/skurnapally/blob/main/images/mongodb.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://neo4j.com/" target="_blank"> <img src="https://github.com/skurnapally/skurnapally/blob/main/images/neo4j-icon.svg" alt="neo4j" width="40" height="40"/> </a> 
