@@ -92,7 +92,10 @@
 
 ### Data_Analysis_And_Visualisation
 
-<li>Important Concepts of Data Analysis and Visualisation <a href="https://github.com/skurnapally/ML_And_DL_Notes/blob/main/Advanced%20MLNotes.docx">Notes</a> </li>
+
+<ul>
+<li>Important Concepts of Data Analysis and Visualisation <a href="https://github.com/skurnapally/ML_And_DL_Notes/blob/main/DataVisualisationandanalysis.docx">Notes</a> </li>
+</ul>
 
 | Title        | Repository    | Assignment
 | ------------- |:-------------:|:-------------:|
