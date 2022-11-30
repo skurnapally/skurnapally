@@ -54,6 +54,9 @@
 2. [Pre_Requisites_For_Data_Science](###Pre_Requisites_For_Data_Science)
 3. [Data_Analysis_And_Visualisation](###Data_Analysis_And_Visualisation)
 4. [Machine_Learning](###Machine_Learning)
+	4.1 [Classification](###Classification)
+	4.2 [Regression](###Regression)
+5. [Machine_Learning_Case_Studies](###Machine_Learning_Case_Studies)
 
 
 ### Maths_for_Data_Science
@@ -161,6 +164,13 @@
 |Ensemble_Learning:Stacking:Voting_Classifier||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Classifer___Voting_classifier.ipynb)|||
 |Ensemble_Learning:Stacking:Voting_Regressor||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Regressor___Voting_Regressor.ipynb.ipynb.ipynb)|||
 |Ensemble_Learning:Cascading||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Cascading/Credit_Card_Fraud_Detection_using_cascading.ipynb)|||
+
+### Machine_Learning_Case_Studies
+
+| Title        | Repository    | 
+| ------------- |:-------------:|
+|| [🔗]() |
+
 
 
 
