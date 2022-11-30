@@ -113,7 +113,14 @@
 |Stats_Concepts:Z_and_T_Tests| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Z_and_T_Tests.ipynb) | 
 |Stats_Concepts:Chi_Squared_Test| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Chi_Squared_Test.ipynb) | 
 |Stats_Concepts:ANOVA| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/ANOVA.ipynb) | 
-
+|handling categorical variables| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/handling%20categorical%20variables/Handling_Categorical_Variables.ipynb) | 
+|Outlier_or_Anomoly_Detection| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Outlier_or_Anomoly_Detection/Outlier_Anomoly_Detection_%26_Treatment_Techniques.ipynb) | 
+|Feature_Selection_Techniques| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Feature_Selection_techniques/Feature_Selection.ipynb) | 
+|Handling_Data_imbalance| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Imbalanced_Data/Handling_imbalance_Using_Resampling.ipynb) | 
+|Handling_Missing_Values| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Missing_Value_Treatment/Missing_Value_Treatment.ipynb) | 
+|Dimensionality_Reduction: PCA (Principal Component Analysis)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
+|Dimensionality_Reduction: TSNE (T-Distributed Stochastic Neighbourhood Embedding)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
+|Dimensionality_Reduction: UMAP (Uniform Manifold Approximation and Projection for Dimension Reduction)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
 
 
 <h2>My Blogs on Medium</h2>
