@@ -81,7 +81,7 @@
 |Flask| [🔗](https://www.tutorialspoint.com/flask/flask_tutorial.pdf) |  [🔗](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)| |
 |SQL| [🔗](https://www.hcoe.edu.np/uploads/attachments/r96oytechsacgzi4.pdf) |  [🔗](https://www.interviewbit.com/sql-cheat-sheet/)| [🔗](https://github.com/skurnapally/Assignments/tree/main/SQL) |  
 |Web_APIs| [🔗](https://github.com/skurnapally/Web_APIs) |  | |
-|Web_Scraping| [🔗](https://github.com/skurnapally/Web_Scraping) |  | |
+|Web_Scraping| [🔗](https://github.com/skurnapally/Web_Scraping) |  | [🔗](https://www.dataquest.io/wp-content/uploads/2019/03/python-regular-expressions-cheat-sheet.pdf) |
 
 
 <li>📙 you can follow <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Hand Book</a>.</li>
