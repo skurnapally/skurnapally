@@ -80,6 +80,9 @@
 |Seaborn| [🔗](https://seaborn.pydata.org/api.html) |  [🔗](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)| |
 |Flask| [🔗](https://www.tutorialspoint.com/flask/flask_tutorial.pdf) |  [🔗](https://s3.us-east-2.amazonaws.com/prettyprinted/flask_cheatsheet.pdf)| |
 |SQL| [🔗](https://www.hcoe.edu.np/uploads/attachments/r96oytechsacgzi4.pdf) |  [🔗](https://www.interviewbit.com/sql-cheat-sheet/)| [🔗](https://github.com/skurnapally/Assignments/tree/main/SQL) |  
+|Web_APIs| [🔗](https://github.com/skurnapally/Web_APIs) |  | |
+|Web_Scraping| [🔗](https://github.com/skurnapally/Web_Scraping) |  | |
+
 
 <li>📙 you can follow <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Hand Book</a>.</li>
 <li>📙 you can follow <a href="https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf">Introduction to Machine Learning with Python</a>.</li>
