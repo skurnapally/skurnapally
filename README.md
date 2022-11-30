@@ -13,8 +13,8 @@
 <li>📝 I regulary write articles on <a href="https://medium.com/@skurnapally">Medium</a>.</li>
 <li>💬 Ping me about <strong>Machine Learning and Deep Learning</strong>.</li>
 <li>📙 Check out my <a href="google.com">resume</a>.</li>
-<li>🎉 Fun Fact: I enjoy playing Football,Interested in World History, Cooking and most importantly i am a hardcore foodie。</li>
-<li>📫 How to reach me: You can send me an email at skurnapally@gmail.com</li>
+<li>🎉 Fun Fact: I enjoy playing Football,Interested in World History,Travelling, Cooking and most importantly i am a hardcore foodie。</li>
+<li>📫 How to reach me: send me an email at skurnapally@gmail.com</li>
 </ul>
 
 
@@ -100,7 +100,7 @@
 
 
 <ul>
-<li>Important Detailed Notes For Data Analysis and Visualisation <a href="https://docs.google.com/document/d/1kQ7T0PpkqN-5cLC7e5UXuyQtklzleNWe/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Notes</a> </li>
+<li><a href="https://docs.google.com/document/d/1kQ7T0PpkqN-5cLC7e5UXuyQtklzleNWe/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click Here For Detailed Notes For Data Analysis and Visualisation</a> </li>
 </ul>
 
 | Title        | Repository    | 
@@ -132,7 +132,7 @@
 ### Machine_Learning
 
 <ul>
-<li>Detailed Notes for Machine_Learning <a href="https://docs.google.com/document/d/1RwjR0TxJK7KsYyiYYFiX5x4e1zUx42Nk/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Notes</a> </li>
+<li><a href="https://docs.google.com/document/d/1RwjR0TxJK7KsYyiYYFiX5x4e1zUx42Nk/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click here for Detailed Machine_Learning Notes </a> </li>
 </ul>
 
 ### Classification
@@ -187,9 +187,6 @@
 |PersonalizedCancerDiagnosis|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/PersonalizedCancerDiagnosis)|
 |Quora_Question_Pair_Similarity|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Quora_Question_Pair_Similarity)|
 |Stack_Overflow_Tag_Predictor|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Stack_Overflow_Tag_Predictor)|
-
-
-
 
 
 
