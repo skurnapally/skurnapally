@@ -1,5 +1,5 @@
 <p align="center">
-(<img  width="800" height="400" src="https://github.com/skurnapally/skurnapally/blob/main/images/Santhosh.png">)
+<img  width="800" height="400" src="https://github.com/skurnapally/skurnapally/blob/main/images/Santhosh.png">
 </p>
 <h2 align="center">Hey! Nice to see you. 👋🤓</h2>
 <p align="center">I am Santhosh Kurnapally, a machine learning engineer from Hyderabad,india :india:. Currently working at Infosys and formerly at Cognizant.
