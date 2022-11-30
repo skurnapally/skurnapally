@@ -60,6 +60,7 @@
 	4.2 [Regression](###Regression)
 	
 5. [Machine_Learning_Case_Studies](###Machine_Learning_Case_Studies)
+6. [Advanced_Machine_Learning](###Advanced_Machine_Learning)
 
 
 ### Maths_for_Data_Science
@@ -192,6 +193,13 @@
 |PersonalizedCancerDiagnosis|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/PersonalizedCancerDiagnosis)|
 |Quora_Question_Pair_Similarity|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Quora_Question_Pair_Similarity)|
 |Stack_Overflow_Tag_Predictor|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Stack_Overflow_Tag_Predictor)|
+
+
+### Advanced_Machine_Learning
+
+<ul>
+<li><a href="https://docs.google.com/document/d/1xssn61X2q2l4O8lHAgj3AGw3iyxn4_u1/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click here for Detailed Advanced_Machine_Learning Notes</a> </li>
+</ul>
 
 
 
