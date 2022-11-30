@@ -161,7 +161,7 @@
 ### Regression
 
  Title        | Implementation_From_Scratch    | Regression_Implementation |Assignment
-| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| ------------- |:-------------:|:-------------:|:-------------:|
 |Linear_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Linear_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  | 
 |Polynomial_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Polynomial_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) | |  
 |Lasso_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Lasso_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  | 
