@@ -52,6 +52,7 @@
 
 1. [Maths_for_Data_Science](###Maths_for_Data_Science)
 2. [Pre_Requisites_For_Data_Science](###Pre_Requisites_For_Data_Science)
+3. [Data_Analysis_And_Visualisation](###Data_Analysis_And_Visualisation)
 
 
 
@@ -88,6 +89,19 @@
 <li>📙 you can follow <a href="https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf">Introduction to Machine Learning with Python</a>.</li>
 <li>Python practice <a href="https://leetcode.com/problemset/all/">Leet Code</a> </li>
 <li>Python practice <a href="https://www.hackerrank.com/dashboard">Hacker Rank</a> </li>
+
+### Data_Analysis_And_Visualisation
+
+<li>Important Concepts of Data Analysis and Visualisation <a href="https://github.com/skurnapally/ML_And_DL_Notes/blob/main/Advanced%20MLNotes.docx">Notes</a> </li>
+
+| Title        | Repository    | Assignment
+| ------------- |:-------------:|:-------------:|:-------------:|
+|EDA:UniVariate_Analysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) |  |
+|EDA:BiVariate_Anaysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | |
+|EDA:MultiVariate_Anaysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | |
+|Text_Processing| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Amazon_Fine_Food_Reviews_Text_Data_Analysis.ipynb) | |
+|Implementing_TF_IDF_From_Scratch| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Implementing_TF_IDF_from_Scratch.ipynb) | |
+
 
 
 <h2>My Blogs on Medium</h2>
