@@ -95,7 +95,7 @@
 <li>Important Concepts of Data Analysis and Visualisation <a href="https://github.com/skurnapally/ML_And_DL_Notes/blob/main/Advanced%20MLNotes.docx">Notes</a> </li>
 
 | Title        | Repository    | Assignment
-| ------------- |:-------------:|:-------------:|:-------------:|
+| ------------- |:-------------:|:-------------:|
 |EDA:UniVariate_Analysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) |  |
 |EDA:BiVariate_Anaysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | |
 |EDA:MultiVariate_Anaysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | |
