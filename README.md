@@ -50,7 +50,7 @@
 
 <h2>career path for a Machine Learning Engineer </h2>
 
-1. [Maths_for_Data_Science](#Maths_for_Data_Science)
+1. [Maths_for_Data_Science](##Maths_for_Data_Science)
 2. [Pre_Requisites_For_Data_Science](###Pre_Requisites_For_Data_Science)
 3. [Data_Analysis_And_Visualisation](###Data_Analysis_And_Visualisation)
 4. [Machine_Learning](###Machine_Learning)
@@ -63,7 +63,7 @@
 6. [Advanced_Machine_Learning](###Advanced_Machine_Learning)
 
 
-# Maths_for_Data_Science
+## Maths_for_Data_Science
 
 | Title        | Repository           
 | ------------- |:-------------:|
