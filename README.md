@@ -50,20 +50,20 @@
 
 <h2>career path for a Machine Learning Engineer </h2>
 
-1. [Maths_for_Data_Science](##Maths_for_Data_Science)
-2. [Pre_Requisites_For_Data_Science](###Pre_Requisites_For_Data_Science)
-3. [Data_Analysis_And_Visualisation](###Data_Analysis_And_Visualisation)
-4. [Machine_Learning](###Machine_Learning)
+1. [Maths_for_Data_Science](#Maths_for_Data_Science)
+2. [Pre_Requisites_For_Data_Science](#Pre_Requisites_For_Data_Science)
+3. [Data_Analysis_And_Visualisation](#Data_Analysis_And_Visualisation)
+4. [Machine_Learning](#Machine_Learning)
 
-	4.1 [Classification](###Classification)
+	4.1 [Classification](#Classification)
 	
-	4.2 [Regression](###Regression)
+	4.2 [Regression](#Regression)
 	
-5. [Machine_Learning_Case_Studies](###Machine_Learning_Case_Studies)
-6. [Advanced_Machine_Learning](###Advanced_Machine_Learning)
+5. [Machine_Learning_Case_Studies](#Machine_Learning_Case_Studies)
+6. [Advanced_Machine_Learning](#Advanced_Machine_Learning)
 
 
-## Maths_for_Data_Science
+# Maths_for_Data_Science
 
 | Title        | Repository           
 | ------------- |:-------------:|
@@ -75,7 +75,7 @@
 
 <li>📙 For Indepth Mathematics you can follow <a href="https://mml-book.github.io/book/mml-book.pdf">Mathematics For Machine Learning</a>.</li>
 
-### Pre_Requisites_For_Data_Science
+# Pre_Requisites_For_Data_Science
 
 | Title        | Repository    | Cheat_Sheat | Assignment
 | ------------- |:-------------:|:-------------:|:-------------:|
@@ -97,7 +97,7 @@
 <li>Python practice <a href="https://leetcode.com/problemset/all/">Leet Code</a> </li>
 <li>Python practice <a href="https://www.hackerrank.com/dashboard">Hacker Rank</a> </li>
 
-### Data_Analysis_And_Visualisation
+# Data_Analysis_And_Visualisation
 
 
 <ul>
@@ -130,13 +130,13 @@
 |Dimensionality_Reduction: TSNE (T-Distributed Stochastic Neighbourhood Embedding)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
 |Dimensionality_Reduction: UMAP (Uniform Manifold Approximation and Projection for Dimension Reduction)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
 
-### Machine_Learning
+# Machine_Learning
 
 <ul>
 <li><a href="https://docs.google.com/document/d/1RwjR0TxJK7KsYyiYYFiX5x4e1zUx42Nk/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click here for Detailed Machine_Learning Notes </a> </li>
 </ul>
 
-### Classification
+# Classification
 
 | Title        | Implementation_From_Scratch    | Binary_Classification_Implementation/Regression |Multi_class_Classification_Implementation |Assignment
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
@@ -159,7 +159,7 @@
 |Ensemble_Learning:Cascading||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Cascading/Credit_Card_Fraud_Detection_using_cascading.ipynb)|||
 
 
-### Regression
+# Regression
 
  Title        | Implementation_From_Scratch    | Regression_Implementation |Assignment
 | ------------- |:-------------:|:-------------:|:-------------:|
@@ -184,7 +184,7 @@
 
 
 
-### Machine_Learning_Case_Studies
+# Machine_Learning_Case_Studies
 
 | Title        | Repository    | 
 | ------------- |:-------------:|
@@ -195,7 +195,7 @@
 |Stack_Overflow_Tag_Predictor|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Stack_Overflow_Tag_Predictor)|
 
 
-### Advanced_Machine_Learning
+# Advanced_Machine_Learning
 
 <ul>
 <li><a href="https://docs.google.com/document/d/1xssn61X2q2l4O8lHAgj3AGw3iyxn4_u1/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click here for Detailed Advanced_Machine_Learning Notes</a> </li>
