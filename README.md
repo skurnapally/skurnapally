@@ -201,6 +201,9 @@
 <li><a href="https://docs.google.com/document/d/1xssn61X2q2l4O8lHAgj3AGw3iyxn4_u1/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click here for Detailed Advanced_Machine_Learning Notes</a> </li>
 </ul>
 
+| Title        | Repository    | 
+| ------------- |:-------------:|
+|Calibration_For_Binary_Classifer| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Binary_Classification_With_Calibration.ipynb) |
 
 
 <h2>My Blogs on Medium</h2>
