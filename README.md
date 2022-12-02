@@ -204,6 +204,7 @@
 | Title        | Repository    | 
 | ------------- |:-------------:|
 |Calibration_For_Binary_Classifer| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Binary_Classification_With_Calibration.ipynb) |
+|Calibration_For_Multi_Class_Classifer| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Multi_Class_Classification_with_Calibration.ipynb) |
 
 
 <h2>My Blogs on Medium</h2>
