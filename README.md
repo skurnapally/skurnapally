@@ -207,7 +207,7 @@
 |Calibration_For_Multi_Class_Classifer| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Multi_Class_Classification_with_Calibration.ipynb) ||
 |RANSAC_Regressor_With_PipeLine| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/RANSAC_Regressor/RANSAC_Regression_For_Outliers.ipynb) | |
 |SIFT_for_Image_Matching| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/SIFT/Understanding_SIFT.ipynb) | |
-|K-Means Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Mall_Customer_Segmentation_Using_K-Means_Clustering.ipynb) | [🔗] (https://github.com/skurnapally/Assignments/blob/main/Clustering_Assignment/Clustering_Assignment.ipynb)|
+|K-Means Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Mall_Customer_Segmentation_Using_K-Means_Clustering.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/Clustering_Assignment/Clustering_Assignment.ipynb)|
 
 
 <h2>My Blogs on Medium</h2>
