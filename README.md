@@ -201,12 +201,13 @@
 <li><a href="https://docs.google.com/document/d/1xssn61X2q2l4O8lHAgj3AGw3iyxn4_u1/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click here for Detailed Advanced_Machine_Learning Notes</a> </li>
 </ul>
 
-| Title        | Repository    | 
-| ------------- |:-------------:|
-|Calibration_For_Binary_Classifer| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Binary_Classification_With_Calibration.ipynb) |
-|Calibration_For_Multi_Class_Classifer| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Multi_Class_Classification_with_Calibration.ipynb) |
-|RANSAC_Regressor_With_PipeLine| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/RANSAC_Regressor/RANSAC_Regression_For_Outliers.ipynb) |
-|SIFT_for_Image_Matching| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/SIFT/Understanding_SIFT.ipynb) |
+| Title        | Repository    | Assignment
+| ------------- |:-------------:|:-------------:|
+|Calibration_For_Binary_Classifer| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Binary_Classification_With_Calibration.ipynb) | |
+|Calibration_For_Multi_Class_Classifer| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Multi_Class_Classification_with_Calibration.ipynb) ||
+|RANSAC_Regressor_With_PipeLine| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/RANSAC_Regressor/RANSAC_Regression_For_Outliers.ipynb) | |
+|SIFT_for_Image_Matching| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/SIFT/Understanding_SIFT.ipynb) | |
+|K-Means Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Mall_Customer_Segmentation_Using_K-Means_Clustering.ipynb) | [🔗] (https://github.com/skurnapally/Assignments/blob/main/Clustering_Assignment/Clustering_Assignment.ipynb)|
 
 
 <h2>My Blogs on Medium</h2>
