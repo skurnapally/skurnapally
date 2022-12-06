@@ -209,6 +209,7 @@
 |SIFT_for_Image_Matching| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/SIFT/Understanding_SIFT.ipynb) | |
 |K-Means Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Mall_Customer_Segmentation_Using_K-Means_Clustering.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/Clustering_Assignment/Clustering_Assignment.ipynb)|
 |Agglomerative_and_DBSCAN_Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Customer_Personality_Analysis_Using_Agglomerative_Clustering_And_DBSCAN.ipynb) | |
+|Eigen_Faces_Using_PCA| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/EigenFaces/EigenFaces.ipynb) | |
 
 
 <h2>My Blogs on Medium</h2>
