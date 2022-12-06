@@ -210,6 +210,8 @@
 |K-Means Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Mall_Customer_Segmentation_Using_K-Means_Clustering.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/Clustering_Assignment/Clustering_Assignment.ipynb)|
 |Agglomerative_and_DBSCAN_Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Customer_Personality_Analysis_Using_Agglomerative_Clustering_And_DBSCAN.ipynb) | |
 |Eigen_Faces_Using_PCA| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/EigenFaces/EigenFaces.ipynb) | |
+|(LDA)_Latent_Dirichlet_Allocation_For_Topic_Modeling| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/LDA/Topic_Modeling_0n_Newsgroup_Data_Using_LDA.ipynb) | [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/LDA/Topic_Modeling_Using_LDA.ipynb) |
+
 
 
 <h2>My Blogs on Medium</h2>
