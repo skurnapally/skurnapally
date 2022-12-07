@@ -194,6 +194,7 @@
 |Quora_Question_Pair_Similarity|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Quora_Question_Pair_Similarity)|
 |Stack_Overflow_Tag_Predictor|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Stack_Overflow_Tag_Predictor)|
 |Facebook_Link_Prediction|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Facebook_Link_Prediction)|
+|NewYork_Taxi_Demand_Prediction|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/blob/main/NewYork_Taxi_Demand_Prediction/NYC%20Final.ipynb)|
 
 
 
