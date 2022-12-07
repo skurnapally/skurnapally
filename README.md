@@ -193,6 +193,8 @@
 |PersonalizedCancerDiagnosis|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/PersonalizedCancerDiagnosis)|
 |Quora_Question_Pair_Similarity|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Quora_Question_Pair_Similarity)|
 |Stack_Overflow_Tag_Predictor|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Stack_Overflow_Tag_Predictor)|
+|Facebook_Link_Prediction|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Facebook_Link_Prediction)|
+
 
 
 # Advanced_Machine_Learning
