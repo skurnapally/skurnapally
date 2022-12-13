@@ -59,6 +59,8 @@
 	
 	4.2 [Regression](#Regression)
 	
+	4.3 [Time_Series_Analysis](#Time_Series_Analysis)
+	
 5. [Machine_Learning_Case_Studies](#Machine_Learning_Case_Studies)
 6. [Advanced_Machine_Learning](#Advanced_Machine_Learning)
 
@@ -183,6 +185,28 @@
 </ul>
 
 
+# Time_Series_Analysis
+
+| Title        | Repository    | Assignment |
+| ------------- |:-------------:|:-------------:|
+|Understanding_ACF_&_PACF|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Understanding_ACF_and_PACF.ipynb) | |
+|Understanding_Stationarity_&_Augmented_DickeyFuller_Test_|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Augmented_Dickey-Fuller%20Test.ipynb) | |
+|Time_Series_Smoothing|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Time_Series_Smoothinng_In_Python.ipynb) | |
+|Understanding_AR_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/AR_Model.ipynb) | |
+|Understanding_MA_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/MA_Model.ipynb) | |
+|Understanding_ARMA_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/ARMA_Model.ipynb)| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/ARMA_End_to_End_Time_Series_Analysis.ipynb)| 
+|Understanding_ARIMA|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Stock%20Price%20prediction%20using%20ARIMA%20-%20%20End%20to%20End%20.ipynb) | 
+|SARIMA_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/SARIMA%20Model.ipynb) | 
+|GARCH_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/GARCH%20Model.ipynb) | [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/GARCH%20Stock%20Modeling.ipynb)|
+|VAR_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/VAR%20Model.ipynb) | |
+|Granger_Causality|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Granger%20Causality.ipynb) | |
+|Time_Series_Preprocessing|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Time%20Series%20Data%20Preprocessing.ipynb) | |
+|Model_Selection_Using_AIC_&_BIC|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Model%20Selection.ipynb) | |
+|Anomoly_Detection|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Anomaly%20Detection.ipynb) | |
+|STL_Decomposition|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/STL%20Decomposition.ipynb) | |
+|Time_Series_Prediction_by_Undoing_Stationarity|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Undo%20Stationary%20Transformations.ipynb) | |
+
+
 
 # Machine_Learning_Case_Studies
 
@@ -214,6 +238,7 @@
 |Agglomerative_and_DBSCAN_Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Customer_Personality_Analysis_Using_Agglomerative_Clustering_And_DBSCAN.ipynb) | |
 |Eigen_Faces_Using_PCA| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/EigenFaces/EigenFaces.ipynb) | |
 |(LDA)_Latent_Dirichlet_Allocation_For_Topic_Modeling| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/LDA/Topic_Modeling_0n_Newsgroup_Data_Using_LDA.ipynb) | [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/LDA/Topic_Modeling_Using_LDA.ipynb) |
+
 
 
 
