@@ -220,6 +220,7 @@
 |Facebook_Link_Prediction|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Facebook_Link_Prediction)|
 |NewYork_Taxi_Demand_Prediction|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/blob/main/NewYork_Taxi_Demand_Prediction/NYC%20Final.ipynb)|
 |Amazon_Fashion_recommendation_System|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/blob/main/Amazon_Fashion_Recommendation_System/Amazon_Fashion_Recommendation_System.ipynb)|
+|Netflix_Movie_recommendation_System|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/blob/main/Netflix_Movie_Recommendation/Netflix_Movie.ipynb)|
 
 
 # Advanced_Machine_Learning
