@@ -239,6 +239,10 @@
 |Agglomerative_and_DBSCAN_Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Customer_Personality_Analysis_Using_Agglomerative_Clustering_And_DBSCAN.ipynb) | |
 |Eigen_Faces_Using_PCA| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/EigenFaces/EigenFaces.ipynb) | |
 |(LDA)_Latent_Dirichlet_Allocation_For_Topic_Modeling| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/LDA/Topic_Modeling_0n_Newsgroup_Data_Using_LDA.ipynb) | [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/LDA/Topic_Modeling_Using_LDA.ipynb) |
+|Recommendation_Systems_Using_Content_Based_Recommendation| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) |  |
+|Recommendation_Systems_Using_Collaberative_Filtering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/RecommendationSystem_TruncatedSVD/Recommendation_system_assignment_final.ipynb) |
+|Recommendation_Systems_Using_Surprise_Library| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) | |
+|Recommendation_Systems_Using_Machine_Learning| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) | |
 
 
 
