@@ -63,7 +63,7 @@
 	
 5. [Machine_Learning_Case_Studies](#Machine_Learning_Case_Studies)
 6. [Advanced_Machine_Learning](#Advanced_Machine_Learning)
-
+7. [Deep_Learning](#Deep_Learning)
 
 # Maths_for_Data_Science
 
@@ -245,12 +245,18 @@
 |Recommendation_Systems_Using_Machine_Learning| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) | |
 
 
+# Deep_Learning
+
+<ul>
+<li><a href="https://docs.google.com/document/d/1gywHtgGfSbDOK51bvduA4zaZ4Eq40l_l/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true</a> </li>
+</ul>
 
 
 <h2>My Blogs on Medium</h2>
 <ul>
 <li><a href="https://medium.com/@skurnapally/medical-image-captioning-using-attention-based-encoder-decoder-recurrent-neural-networks-b90f65907f49">Medical Image Captioning using Attention Based Encoder-Decoder Recurrent Neural Networks</a></li>
 </ul>
+
 
 <h2>GitHub Stats</h2>
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=skurnapally&show_icons=true&theme=tokyonight&hide_border=true" />
