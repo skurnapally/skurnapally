@@ -248,7 +248,7 @@
 # Deep_Learning
 
 <ul>
-<li><a href="https://docs.google.com/document/d/1gywHtgGfSbDOK51bvduA4zaZ4Eq40l_l/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click here for Detailed Deep_Learning Notes</a> </li> 
+<li><a href="https://docs.google.com/document/d/1tC8Axxr0ofKXCoI_hGCSzgy8bHwnbmcE/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true">Click here for Detailed Deep_Learning Notes part - 1</a> </li> 
 </ul>
 
 | Title        | Repository    | Assignment
