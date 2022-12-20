@@ -251,6 +251,9 @@
 <li><a href="https://docs.google.com/document/d/1gywHtgGfSbDOK51bvduA4zaZ4Eq40l_l/edit?usp=sharing&ouid=108527312517744756031&rtpof=true&sd=true</a> </li> 
 </ul>
 
+| Title        | Repository    | Assignment
+| ------------- |:-------------:|:-------------:|
+|Binary_Classification_Using_Multi_Layered_Perceptron| [🔗]() | |
 
 <h2>My Blogs on Medium</h2>
 <ul>
