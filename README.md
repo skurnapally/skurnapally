@@ -254,7 +254,7 @@
 | Title        | Repository    | Assignment
 | ------------- |:-------------:|:-------------:|
 |Understanding_Basics_Of_Tensorflow| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Basics_Of_Tensorflow.ipynb) | |
-|Understanding_CallBacks_In_Tensorflow| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Understanding_CallBacks_In_Tensorflow.ipynb) | |
+|Understanding_CallBacks_In_Tensorflow| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Understanding_CallBacks_In_Tensorflow.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/Callbacks/Call_Backs_Assignment.ipynb)|
 |Binary_Classification_Using_Multi_Layered_Perceptron| [🔗]() | |
 
 <h2>My Blogs on Medium</h2>
