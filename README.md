@@ -257,6 +257,7 @@
 |Understanding_CallBacks_In_Tensorflow| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Understanding_CallBacks_In_Tensorflow.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Callbacks/Call_Backs_Assignment.ipynb)|
 |Binary_Classification_Using_Perceptron_&_Multi_Layered_Perceptron_With_HyperParameter_Tuning| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Binary_Classification_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
 |Multi_Class_Classification_With_HyperParameter_Tuning(RandomSearch,Hyperband,Bayesian)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi_Class_Classification_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
+|Regression_With_HyperParameter_Tuning(RandomSearch,Hyperband,Bayesian)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Regression_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
 
 <h2>My Blogs on Medium</h2>
 <ul>
