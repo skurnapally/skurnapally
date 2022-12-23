@@ -258,7 +258,7 @@
 |Binary_Classification_Using_Perceptron_&_Multi_Layered_Perceptron_With_HyperParameter_Tuning| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Binary_Classification_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
 |Multi_Class_Classification_With_HyperParameter_Tuning(RandomSearch,Hyperband,Bayesian)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi_Class_Classification_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
 |Regression_With_HyperParameter_Tuning(RandomSearch,Hyperband,Bayesian)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Regression_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
-|Understanding_Back_Prop_From_Scratch| [🔗](https://github.com/skurnapally/Assignments/blob/main/BackProp_From_Scratch/Backpropagation_from_Scratch_Assignment.ipynb) | |
+|Understanding_Back_Prop_From_Scratch| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/BackProp_From_Scratch/Backpropagation_from_Scratch_Assignment.ipynb) | |
 
 
 
