@@ -190,7 +190,7 @@
 | Title        | Repository    | Assignment |
 | ------------- |:-------------:|:-------------:|
 |Understanding_ACF_&_PACF|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Understanding_ACF_and_PACF.ipynb) | |
-|Understanding_Stationarity_&_Augmented_DickeyFuller_Test_|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Augmented_Dickey-Fuller%20Test.ipynb) | |
+|Understanding_Stationarity_and_Augmented_DickeyFuller_Test_|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Augmented_Dickey-Fuller%20Test.ipynb) | |
 |Time_Series_Smoothing|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Time_Series_Smoothinng_In_Python.ipynb) | |
 |Understanding_AR_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/AR_Model.ipynb) | |
 |Understanding_MA_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/MA_Model.ipynb) | |
