@@ -263,6 +263,7 @@
 |Understanding_Gradient_Tapes| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Understanding_Gradient_Tapes.ipynb) | |
 |Multi_Layered_Perceptron_from_scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Building_neural_network_from_scratch.ipynb) | |
 |Auto_Encoders_for_Dmensionality_Reduction| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Auto_Encoders/Auto_Encoders_For_Dimensionality_Reduction.ipynb) | |
+|CNN_from_Scratch| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/CNN_from_Scratch.ipynb) | |
 
 
 
