@@ -256,9 +256,10 @@
 |Understanding_Basics_Of_Tensorflow| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Basics_Of_Tensorflow.ipynb) | |
 |Understanding_CallBacks_In_Tensorflow| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Understanding_CallBacks_In_Tensorflow.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Callbacks/Call_Backs_Assignment.ipynb)|
 |Binary_Classification_Using_Perceptron_&_Multi_Layered_Perceptron_With_HyperParameter_Tuning| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Binary_Classification_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
-|Multi_Class_Classification_With_HyperParameter_Tuning(RandomSearch,Hyperband,Bayesian)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi_Class_Classification_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
+|Multi_Class_Classification_With_HyperParameter_Tuning(RandomSearch,Hyperband,Bayesian)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi_Class_Classification_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/MNIST_Multi_Class_Classification/Keras_Mnist.ipynb) |
 |Regression_With_HyperParameter_Tuning(RandomSearch,Hyperband,Bayesian)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Regression_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
 |Understanding_Back_Prop_From_Scratch| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/BackProp_From_Scratch/Backpropagation_from_Scratch_Assignment.ipynb) | |
+|Auto_Encoders_for_Dmensionality_Reduction| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Auto_Encoders/Auto_Encoders_For_Dimensionality_Reduction.ipynb) | |
 
 
 
