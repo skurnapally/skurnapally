@@ -265,6 +265,7 @@
 |Auto_Encoders_for_Dmensionality_Reduction| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Auto_Encoders/Auto_Encoders_For_Dimensionality_Reduction.ipynb) | |
 |CNN_from_Scratch| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/CNN_from_Scratch.ipynb) | |
 |Binary_Image_Classification_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Binary_Image_Classification/Binary_Image_Classification_Using_Convolution_Nueral_Networks.ipynb) | |
+|Multi_Class_Image_Classification_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi-Class-imageclassification/Multi_Class_Image_Classification_Using_Convolution_Nueral_Networks.ipynb) | |
 
 
 
