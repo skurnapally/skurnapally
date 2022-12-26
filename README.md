@@ -266,6 +266,8 @@
 |CNN_from_Scratch| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/CNN_from_Scratch.ipynb) | |
 |Binary_Image_Classification_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Binary_Image_Classification/Binary_Image_Classification_Using_Convolution_Nueral_Networks.ipynb) | |
 |Multi_Class_Image_Classification_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi-Class-imageclassification/Multi_Class_Image_Classification_Using_Convolution_Nueral_Networks.ipynb) | |
+|Text_Classificaton_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/CNN_with_textdata/Text%20Classification%20Assignment.ipynb) | |
+|Implementation_of_Char_CNN| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/CNN_with_textdata/Text%20Classification%20Assignment.ipynb) | |
 
 
 
