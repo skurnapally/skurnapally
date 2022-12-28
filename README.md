@@ -268,6 +268,9 @@
 |Multi_Class_Image_Classification_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi-Class-imageclassification/Multi_Class_Image_Classification_Using_Convolution_Nueral_Networks.ipynb) | |
 |Text_Classificaton_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/CNN_with_textdata/Text%20Classification%20Assignment.ipynb) | |
 |Implementation_of_Char_CNN| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/CNN_with_textdata/Text%20Classification%20Assignment.ipynb) | |
+|Implementation_of_DenseNet_on_CIFAR_10_Data| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/CIFR%20Assignment%20files/CNN%20on%20CIFR%20Assignment.ipynb) | |
+|Transfer_Learning_Using_VGG16_Architechture_Imagenet_pretrained_weights| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Tansfer_Learning/Transfer_Learning_Assignment.ipynb) | |
+
 
 
 
