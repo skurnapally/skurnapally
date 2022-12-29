@@ -270,7 +270,10 @@
 |Implementation_of_Char_CNN| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/CNN_with_textdata/Text%20Classification%20Assignment.ipynb) | |
 |Implementation_of_DenseNet_on_CIFAR_10_Data| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/CIFR%20Assignment%20files/CNN%20on%20CIFR%20Assignment.ipynb) | |
 |Transfer_Learning_Using_VGG16_Architechture_Imagenet_pretrained_weights| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Tansfer_Learning/Transfer_Learning_Assignment.ipynb) | |
-
+|Implementing_LeNet_from_scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/CNN_Architectures/Implementing_LeNet-5_Architecture_from_scratch.ipynb) | |
+|Implementing_AlexNet_from_scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/CNN_Architectures/Implementing_AlexNet_Architecture_from_scratch.ipynb) | |
+|VGG-16_Keras_Implementation| [Architecture 🔗](https://media.geeksforgeeks.org/wp-content/uploads/20200219152207/new41.jpg) | [keras_implementation 🔗](https://nbviewer.org/github/keras-team/keras-applications/blob/master/keras_applications/vgg16.py) |
+|ResNet-50_Keras_Implementation| [Architecture 🔗](https://miro.medium.com/max/4800/0*9LqUp7XyEx1QNc6A.webp ) | [keras_implementation 🔗](https://nbviewer.org/github/keras-team/keras-applications/blob/master/keras_applications/resnet50.py)|
 
 
 
