@@ -279,6 +279,7 @@
 |Spoken_Digit_Recognition_Using_LSTM| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/spoken_digit/Speech%20detection%20Assignment.ipynb) | |
 |Uni_Variate_Time_Series_Forecasting_Using_LSTMS| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Uni_Variate_Time_Series_Forecasting_Using_LSTM.ipynb) | |
 |Multi_Variate_Time_Series_Forecasting_Using_LSTMS| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi_Variate_Time_Series_Forecasting_Using_LSTM.ipynb) | |
+|Implementing_Bi-Directional_LSTM_on_IMDB_Dataset| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Implementing_Bi-Directional_LSTM_on_IMDB_Dataset.ipynb) | |
 
 
 
