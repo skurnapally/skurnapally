@@ -274,8 +274,9 @@
 |Implementing_AlexNet_from_scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/CNN_Architectures/Implementing_AlexNet_Architecture_from_scratch.ipynb) | |
 |VGG-16_Keras_Implementation| [Architecture 🔗](https://media.geeksforgeeks.org/wp-content/uploads/20200219152207/new41.jpg) | [keras_implementation 🔗](https://nbviewer.org/github/keras-team/keras-applications/blob/master/keras_applications/vgg16.py) |
 |ResNet-50_Keras_Implementation| [Architecture 🔗](https://miro.medium.com/max/4800/0*9LqUp7XyEx1QNc6A.webp ) | [keras_implementation 🔗](https://nbviewer.org/github/keras-team/keras-applications/blob/master/keras_applications/resnet50.py)|
-|Using_LSTM_for_IMBD_Sentiment_Classification_with_Hyper_Parameter_Tuning| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/IMDB_Sentiment_Classification_Using_LSTM.ipynb) | |
+|Using_LSTM_for_IMBD_Sentiment_Classification_with_Hyper_Parameter_Tuning| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/IMDB_Sentiment_Classification_Using_LSTM.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/LSTM%20Assignment/LSTM%20-%20Assignment.ipynb)|
 |Using_GRU_for_IMBD_Sentiment_Classification_with_Hyper_Parameter_Tuning| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/IMDB_Sentiment_Classification_Using_LSTM.ipynb) | |
+|Spoken_Digit_Recognition_Using_LSTM| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/spoken_digit/Speech%20detection%20Assignment.ipynb) | |
 
 
 
