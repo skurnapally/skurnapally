@@ -281,6 +281,7 @@
 |Multi_Variate_Time_Series_Forecasting_Using_LSTMS| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi_Variate_Time_Series_Forecasting_Using_LSTM.ipynb) | |
 |Implementing_Bi-Directional_LSTM_on_IMDB_Dataset| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Implementing_Bi-Directional_LSTM_on_IMDB_Dataset.ipynb) | |
 |Understanding_Stateful_LSTMS| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Understanding_Stateful_LSTMS.ipynb) | |
+|Implementation_of_Bi_Directional_LSTM_With_ATTENTION_Mechanism.ipynb| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Implementation_of_Bi_Directional_LSTM_With_ATTENTION_Mechanism.ipynb) | |
 |Implementing_GAN(Generative Adversarial Networks)_on_MNIST| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/GAN_on_MNIST/Implementing_GAN_on_MNIST_data.ipynb) | |
 
 
