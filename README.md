@@ -284,7 +284,7 @@
 |Implementation_of_Bi_Directional_LSTM_With_ATTENTION_Mechanism.ipynb| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Implementation_of_Bi_Directional_LSTM_With_ATTENTION_Mechanism.ipynb) | |
 |Implementing_GAN(Generative Adversarial Networks)_on_MNIST| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/GAN_on_MNIST/Implementing_GAN_on_MNIST_data.ipynb) | |
 |Nueral_Machine_Translation_Using_Encoder_Decoder| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/English_To_Telugu_Nueral_Machine_Translation/Machine_Translation_Using_Encoder_Decoder_and_Bi_Directional_LSTM_Mechanism.ipynb) | |
-|Nueral_Machine_Translation_Using_Encoder_Decoder_Attention| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Seq_Seq_attention/Seq2SeqImplementation__Assignment.ipynb) | |
+|Nueral_Machine_Translation_Using_Encoder_Decoder_Attention| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/NMT_English_to_Telugu_Using_Encoder_Decoder_Attention.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Seq_Seq_attention/Seq2SeqImplementation__Assignment.ipynb)|
 
 
 
