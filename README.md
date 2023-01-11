@@ -252,6 +252,8 @@
 <li><a href="https://drive.google.com/file/d/1jkqbM-qMqzNILJD7dBUF2b_F8TWZLibn/view?usp=sharing">Click here for Detailed Deep_Learning Notes</a> </li> 
 </ul>
 
+## Basics of Deep Learning
+
 | Title        | Repository    | Assignment
 | ------------- |:-------------:|:-------------:|
 |Understanding_Basics_Of_Tensorflow| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Basics_Of_Tensorflow.ipynb) | |
@@ -263,6 +265,11 @@
 |Understanding_Gradient_Tapes| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Understanding_Gradient_Tapes.ipynb) | |
 |Multi_Layered_Perceptron_from_scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Building_neural_network_from_scratch.ipynb) | |
 |Auto_Encoders_for_Dmensionality_Reduction| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Auto_Encoders/Auto_Encoders_For_Dimensionality_Reduction.ipynb) | |
+
+## Convolutional Neural Networks
+
+| Title        | Repository    | Assignment
+| ------------- |:-------------:|:-------------:|
 |CNN_from_Scratch| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/CNN_from_Scratch.ipynb) | |
 |Binary_Image_Classification_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Binary_Image_Classification/Binary_Image_Classification_Using_Convolution_Nueral_Networks.ipynb) | |
 |Multi_Class_Image_Classification_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi-Class-imageclassification/Multi_Class_Image_Classification_Using_Convolution_Nueral_Networks.ipynb) | |
@@ -274,11 +281,16 @@
 |Implementing_AlexNet_from_scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/CNN_Architectures/Implementing_AlexNet_Architecture_from_scratch.ipynb) | |
 |VGG-16_Keras_Implementation| [Architecture 🔗](https://media.geeksforgeeks.org/wp-content/uploads/20200219152207/new41.jpg) | [keras_implementation 🔗](https://nbviewer.org/github/keras-team/keras-applications/blob/master/keras_applications/vgg16.py) |
 |ResNet-50_Keras_Implementation| [Architecture 🔗](https://miro.medium.com/max/4800/0*9LqUp7XyEx1QNc6A.webp ) | [keras_implementation 🔗](https://nbviewer.org/github/keras-team/keras-applications/blob/master/keras_applications/resnet50.py)|
+
+## Recurrent Neural Networks
+
+| Title        | Repository    | Assignment
+| ------------- |:-------------:|:-------------:|
 |Using_LSTM_for_IMBD_Sentiment_Classification_with_Hyper_Parameter_Tuning| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/IMDB_Sentiment_Classification_Using_LSTM.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/LSTM%20Assignment/LSTM%20-%20Assignment.ipynb)|
 |Using_GRU_for_IMBD_Sentiment_Classification_with_Hyper_Parameter_Tuning| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/IMDB_Sentiment_Classification_Using_LSTM.ipynb) | |
 |Spoken_Digit_Recognition_Using_LSTM| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/spoken_digit/Speech%20detection%20Assignment.ipynb) | |
-|Uni_Variate_Time_Series_Forecasting_Using_LSTMS| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Uni_Variate_Time_Series_Forecasting_Using_LSTM.ipynb) | |
-|Multi_Variate_Time_Series_Forecasting_Using_LSTMS| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi_Variate_Time_Series_Forecasting_Using_LSTM.ipynb) | |
+|Uni_Variate_Time_Series_Forecasting_Using_LSTMS| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Uni_Variate_Time_Series_Forecasting_Using_LSTM.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/TimeSeriesForecasting_LSTMs.ipynb)|
+|Multi_Variate_Time_Series_Forecasting_Using_LSTMS| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi_Variate_Time_Series_Forecasting_Using_LSTM.ipynb) |[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/TimeSeriesForecasting_LSTMs.ipynb) |
 |Implementing_Bi-Directional_LSTM_on_IMDB_Dataset| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Implementing_Bi-Directional_LSTM_on_IMDB_Dataset.ipynb) | |
 |Understanding_Stateful_LSTMS| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Understanding_Stateful_LSTMS.ipynb) | |
 |Implementation_of_Bi_Directional_LSTM_With_ATTENTION_Mechanism.ipynb| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Implementation_of_Bi_Directional_LSTM_With_ATTENTION_Mechanism.ipynb) | |
@@ -286,6 +298,16 @@
 |Nueral_Machine_Translation_Using_Encoder_Decoder| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/English_To_Telugu_Nueral_Machine_Translation/Machine_Translation_Using_Encoder_Decoder_and_Bi_Directional_LSTM_Mechanism.ipynb) | |
 |Nueral_Machine_Translation_Using_Encoder_Decoder_Attention| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/NMT_English_to_Telugu_Using_Encoder_Decoder_Attention.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Seq_Seq_attention/Seq2SeqImplementation__Assignment.ipynb)|
 
+## Transformers
+
+| Title        | Repository    | Assignment
+| ------------- |:-------------:|:-------------:|
+|Understanding_Different_Pipelines_In_Hugging_Face| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Understanding_Different_Pipelines_In_Hugging_Face.ipynb) | |
+|Understanding_BERT_And_Its_Outputs| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Understanding_BERT_And_Its_Outputs.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/BERT.ipynb)|
+|Implementing_BERT_Layer_for_Classifiacation| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Implementing_BERT_Layer_for_Classifiacation.ipynb) |[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Extracting_BERT_Embeddings_For_Classification.ipynb) |
+|BERT_For_Question_And_Answering| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/BERT_For_Question_And_Answering.ipynb) | |
+|Transformers_from_scratch_Implementing_Nueral_Machine_Translation| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Nueral_Machine_Translation_Using_Transformers_from_scratch.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/transformer.ipynb)|
+|Transformers_for_language_Transalation_using_hugging_face| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Transformers_for_language_Transalation_using_hugging_face.ipynb) | |
 
 
 <h2>My Blogs on Medium</h2>
