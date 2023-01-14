@@ -309,6 +309,16 @@
 |Transformers_from_scratch_Implementing_Nueral_Machine_Translation| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Nueral_Machine_Translation_Using_Transformers_from_scratch.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/transformer.ipynb)|
 |Transformers_for_language_Transalation_using_hugging_face| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Transformers_for_language_Transalation_using_hugging_face.ipynb) | |
 
+## Computer Vision - Semantic image segmentation and object Detection
+
+| Title        | Repository    | Assignment
+| ------------- |:-------------:|:-------------:|
+|Brest_Cancer_Detection_Using_Image_Segmentation(Binary image segmentation)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/segmentation/Brest_Cancer_Detection_Using_Image_Segmentation.ipynb) | |
+|Semantic_Image_Segmentation_Of_Indian_Traffic(Multi Class image segmentation)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/segmentation/Semantic_Image_Segmentation_Of_Indian_Traffic.ipynb) | |
+|CANet(Chained_Context_Aggregation_Network)_For_Image_Segmentation_Implementation_from_Scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/segmentation/CANet%28Chained_Context_Aggregation_Network%29_Implementation_from_Scratch.ipynb) | |
+
+
+
 
 <h2>My Blogs on Medium</h2>
 <ul>
