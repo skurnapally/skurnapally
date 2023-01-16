@@ -316,7 +316,7 @@
 |Brest_Cancer_Detection_Using_Image_Segmentation(Binary image segmentation)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/segmentation/Brest_Cancer_Detection_Using_Image_Segmentation.ipynb) | |
 |Semantic_Image_Segmentation_Of_Indian_Traffic(Multi Class image segmentation)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/segmentation/Semantic_Image_Segmentation_Of_Indian_Traffic.ipynb) | |
 |CANet(Chained_Context_Aggregation_Network)_For_Image_Segmentation_Implementation_from_Scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/segmentation/CANet%28Chained_Context_Aggregation_Network%29_Implementation_from_Scratch.ipynb) | |
-
+|Object_Detection_Using_YOLO| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Object_Detection/Object_Detection_Using_YOLO.ipynb)||
 
 
 
