@@ -308,6 +308,8 @@
 |BERT_For_Question_And_Answering| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/BERT_For_Question_And_Answering.ipynb) | |
 |Transformers_from_scratch_Implementing_Nueral_Machine_Translation| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Nueral_Machine_Translation_Using_Transformers_from_scratch.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/transformer.ipynb)|
 |Transformers_for_language_Transalation_using_hugging_face| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Transformers_for_language_Transalation_using_hugging_face.ipynb) | |
+|Implementing_GPT2_And_Obtaining_Word_Embeddings_using_Hugging_Face.ipynb|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Implementing_GPT2_And_Obtaining_Word_Embeddings_using_Hugging_Face.ipynb)||
+
 
 ## Computer Vision - Semantic image segmentation and object Detection
 
