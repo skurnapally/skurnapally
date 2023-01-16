@@ -327,7 +327,7 @@
 | Title        | EDA    | Modeling
 | ------------- |:-------------:|:-------------:|
 |Human_Activity_Recognition_Using_Smartphone_Sensor_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Human_Activity_Recognition/HAR_EDA.ipynb) |  [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Human_Activity_Recognition/HAR_PREDICTION_MODELS.ipynb)  [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Human_Activity_Recognition/HAR_LSTM.ipynb)|
-
+|Sel_Driving_Car_Implementation_Using_End_To_End_Learning|[Base Model](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Autonomous_Driving/autonomusdrivingusecase.ipynb)|[Research Paper Implementation](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Autonomous_Driving/Implementing_End_End_Learning_For_Self_Driving_Cars.ipynb)|
 
 <h2>My Blogs on Medium</h2>
 <ul>
