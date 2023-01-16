@@ -64,6 +64,7 @@
 5. [Machine_Learning_Case_Studies](#Machine_Learning_Case_Studies)
 6. [Advanced_Machine_Learning](#Advanced_Machine_Learning)
 7. [Deep_Learning](#Deep_Learning)
+8. [Deep_Learning_Case_Studies](#Deep_Learning_Case_Studies)
 
 # Maths_for_Data_Science
 
@@ -320,6 +321,12 @@
 |CANet(Chained_Context_Aggregation_Network)_For_Image_Segmentation_Implementation_from_Scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/segmentation/CANet%28Chained_Context_Aggregation_Network%29_Implementation_from_Scratch.ipynb) | |
 |Object_Detection_Using_YOLO| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Object_Detection/Object_Detection_Using_YOLO.ipynb)||
 
+
+# Deep_Learning_Case_Studies
+
+| Title        | EDA    | Modeling
+| ------------- |:-------------:|:-------------:|
+|Human_Activity_Recognition_Using_Smartphone_Sensor_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Human_Activity_Recognition/HAR_EDA.ipynb) |  [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Human_Activity_Recognition/HAR_PREDICTION_MODELS.ipynb)  [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Human_Activity_Recognition/HAR_LSTM.ipynb)|
 
 
 <h2>My Blogs on Medium</h2>
