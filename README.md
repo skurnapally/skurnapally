@@ -264,6 +264,7 @@
 |Regression_With_HyperParameter_Tuning(RandomSearch,Hyperband,Bayesian)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Regression_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
 |Understanding_Back_Prop_From_Scratch| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/BackProp_From_Scratch/Backpropagation_from_Scratch_Assignment.ipynb) | |
 |Understanding_Gradient_Tapes| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Understanding_Gradient_Tapes.ipynb) | |
+|understanding_TimeDistributedLayer|[🔗](https://nbviewer.org/github/AtrCheema/ml_tutorials/blob/master/understanding_TimeDistributedLayer.ipynb) | |
 |Multi_Layered_Perceptron_from_scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Building_neural_network_from_scratch.ipynb) | |
 |Auto_Encoders_for_Dmensionality_Reduction| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Auto_Encoders/Auto_Encoders_For_Dimensionality_Reduction.ipynb) | |
 
