@@ -65,6 +65,7 @@
 6. [Advanced_Machine_Learning](#Advanced_Machine_Learning)
 7. [Deep_Learning](#Deep_Learning)
 8. [Deep_Learning_Case_Studies](#Deep_Learning_Case_Studies)
+9. [Explainable_AI](#Explainable_AI)
 
 # Maths_for_Data_Science
 
@@ -330,6 +331,25 @@
 |Human_Activity_Recognition_Using_Smartphone_Sensor_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Human_Activity_Recognition/HAR_EDA.ipynb) |  [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Human_Activity_Recognition/HAR_PREDICTION_MODELS.ipynb)  [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Human_Activity_Recognition/HAR_LSTM.ipynb)|
 |Sel_Driving_Car_Implementation_Using_End_To_End_Learning|[Base Model](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Autonomous_Driving/autonomusdrivingusecase.ipynb)|[NVIDIA Research Paper Implementation](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Autonomous_Driving/Implementing_End_End_Learning_For_Self_Driving_Cars.ipynb)|
 |Music_Generation_Using_Char_RNNs|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Music_Generation_Using_Char_RNN/Music_Generation_Using_Char_RNNs.ipynb)||
+|Medical_Image_Captioning_on_Chest_X-Rays|[🔗](https://nbviewer.org/github/skurnapally/Medical_Image_Captioning_on_Chest_X-Rays/blob/main/Simple_Encoder_Decoder.ipynb)|[🔗](https://nbviewer.org/github/skurnapally/Medical_Image_Captioning_on_Chest_X-Rays/blob/main/Global_Attention_Encoder_Decoder_Model.ipynb)|
+|Nueral_Machine_Translation_From_English_To_Telugu|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/English_To_Telugu_Nueral_Machine_Translation/Machine_Translation_Using_Encoder_Decoder_and_Bi_Directional_LSTM_Mechanism.ipynb))[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/NMT_English_to_Telugu_Using_Encoder_Decoder_Attention.ipynbv)|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Nueral_Machine_Translation_Using_Transformers_from_scratch.ipynb)|
+
+# Explainable_AI
+
+| Title        | Implementation|
+| ------------- |:-------------:
+|Model_Explanation_Using_Decision_Trees| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/Decision_Tree_for_Exaplainable_AI.ipynb)|
+|LIME_For_Tabular_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/LIME_Implementation.ipynb)|
+|LIME_For_Text_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/LIME_Implementation.ipynb)|
+|LIME_For_Image_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/LIME_Implementation.ipynb)|
+|SHAP_For_Regression| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP_Regression.ipynb)|
+|SHAP_For_Classification| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP-MultiClassClassification.ipynb)|
+|SHAP_For_Text_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/Explainable%20AI%20%28XAI%29%20SHAP%20on%20NLP%20.ipynb)|
+|SHAP_For_Image_Data|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP%20on%20Images.ipynb)|
+
+
+
+
 
 
 <h2>My Blogs on Medium</h2>
