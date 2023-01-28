@@ -9,7 +9,7 @@
 <ul>
 <li>🤓 I am Passionate About Machine Learning and Deep Learning and open to share my knowledge on the same with the data science community.</li>
 <li>📙 you can follow <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Hand Book</a>.</li>
-<li>😎 Completed my <h5>Post Graduation Diploma in Artificial Intelligence and Machine Learning from University of Hyderabad </h5>.</li>
+<li>😎 Completed my <strong>Post Graduation Diploma in Artificial Intelligence and Machine Learning from University of Hyderabad </strong>.</li>
 <li>👨‍💻 Most of my work is available on <a href="https://github.com/skurnapally?tab=repositories">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://medium.com/@skurnapally">Medium</a>.</li>
 <li>💬 Ping me about <strong>Machine Learning and Deep Learning</strong>.</li>
