@@ -72,11 +72,11 @@
 
 | Title        | Repository           
 | ------------- |:-------------:|
-|Basic Geometry for Data Science| [🔗](https://github.com/skurnapally/Maths_for_Datascience/blob/main/Geometry.pdf) |  
-|Basic Calculus for Data Science| [🔗](https://github.com/skurnapally/Maths_for_Datascience/blob/main/Calculus.pdf) | 
-|Basic Statistics for Data Science| [🔗](https://github.com/skurnapally/Maths_for_Datascience/blob/main/statistics.pdf) | 
-|Basic Probability for Data Science| [🔗](https://github.com/skurnapally/Maths_for_Datascience/blob/main/probability.pdf) | 
-|Understanding Distributions| [🔗](https://github.com/skurnapally/Maths_for_Datascience/blob/main/distributions.pdf) |
+|Basic Geometry for Data Science| [🔗](https://nbviewer.org/github/skurnapally/Maths_for_Datascience/blob/main/Geometry.pdf) |  
+|Basic Calculus for Data Science| [🔗](https://nbviewer.org/github/skurnapally/Maths_for_Datascience/blob/main/Calculus.pdf) | 
+|Basic Statistics for Data Science| [🔗](https://nbviewer.org/github/skurnapally/Maths_for_Datascience/blob/main/statistics.pdf) | 
+|Basic Probability for Data Science| [🔗](https://nbviewer.org/github/skurnapally/Maths_for_Datascience/blob/main/probability.pdf) | 
+|Understanding Distributions| [🔗](https://nbviewer.org/github/skurnapally/Maths_for_Datascience/blob/main/distributions.pdf) |
 
 <li>📙 For Indepth Mathematics you can follow <a href="https://mml-book.github.io/book/mml-book.pdf">Mathematics For Machine Learning</a>.</li>
 
@@ -96,7 +96,7 @@
 |Web_APIs| [🔗](https://github.com/skurnapally/Web_APIs) |  | |
 |Web_Scraping| [🔗](https://github.com/skurnapally/Web_Scraping) |  | [🔗](https://www.dataquest.io/wp-content/uploads/2019/03/python-regular-expressions-cheat-sheet.pdf) |
 
-
+<li>📙 you can follow <a href="https://drive.google.com/file/d/1XOclKzLs3s_M9cNO9ykx1VMkWMGl_Voy/view?usp=sharing">Python Text Book</a>.</li>
 <li>📙 you can follow <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Hand Book</a>.</li>
 <li>📙 you can follow <a href="https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf">Introduction to Machine Learning with Python</a>.</li>
 <li>Python practice <a href="https://leetcode.com/problemset/all/">Leet Code</a> </li>
@@ -111,29 +111,29 @@
 
 | Title        | Repository    | 
 | ------------- |:-------------:|
-|EDA:UniVariate_Analysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
-|EDA:BiVariate_Anaysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
-|EDA:MultiVariate_Anaysis| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
-|Text_Processing| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Amazon_Fine_Food_Reviews_Text_Data_Analysis.ipynb) | 
-|Implementing_TF_IDF_From_Scratch| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Implementing_TF_IDF_from_Scratch.ipynb) | 
-|Stats_Concepts:QQ_Plots| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/QQ_Plots___Distribution_Transformations.ipynb) | 
-|Stats_Concepts: Distribution_Transformations (BOX-COX, Yeo_Jhonson and Quantile Transformations)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/QQ_Plots___Distribution_Transformations.ipynb) | 
-|Stats_Concepts:KS_Test_For_Distribution_Similarity| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/KS_Test_For_Distribution_Similarity.ipynb) | 
-|Stats_Concepts:Hypothesis_testing| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Hypothesis_testing_Simulation.ipynb) | 
-|Stats_Concepts:Confidence_Intervals| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Confidence_Interval_Simulation.ipynb) | 
-|Stats_Concepts:Central_Limit_Theorm| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Central_Limit_Theorm.ipynb) |
-|Stats_Concepts:Bootstraping_and_permutation_resampling_test| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Bootstraping_and_permutation_resampling_test.ipynb) | 
-|Stats_Concepts:Z_and_T_Tests| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Z_and_T_Tests.ipynb) | 
-|Stats_Concepts:Chi_Squared_Test| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Chi_Squared_Test.ipynb) | 
-|Stats_Concepts:ANOVA| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/ANOVA.ipynb) | 
-|handling categorical variables| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/handling%20categorical%20variables/Handling_Categorical_Variables.ipynb) | 
-|Outlier_or_Anomoly_Detection| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Outlier_or_Anomoly_Detection/Outlier_Anomoly_Detection_%26_Treatment_Techniques.ipynb) | 
-|Feature_Selection_Techniques| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Feature_Selection_techniques/Feature_Selection.ipynb) | 
-|Handling_Data_imbalance| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Imbalanced_Data/Handling_imbalance_Using_Resampling.ipynb) | 
-|Handling_Missing_Values| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Missing_Value_Treatment/Missing_Value_Treatment.ipynb) | 
-|Dimensionality_Reduction: PCA (Principal Component Analysis)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
-|Dimensionality_Reduction: TSNE (T-Distributed Stochastic Neighbourhood Embedding)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
-|Dimensionality_Reduction: UMAP (Uniform Manifold Approximation and Projection for Dimension Reduction)| [🔗](https://github.com/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
+|EDA:UniVariate_Analysis| [🔗]https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
+|EDA:BiVariate_Anaysis| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
+|EDA:MultiVariate_Anaysis| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
+|Text_Processing| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Amazon_Fine_Food_Reviews_Text_Data_Analysis.ipynb) | 
+|Implementing_TF_IDF_From_Scratch| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Implementing_TF_IDF_from_Scratch.ipynb) | 
+|Stats_Concepts:QQ_Plots| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/QQ_Plots___Distribution_Transformations.ipynb) | 
+|Stats_Concepts: Distribution_Transformations (BOX-COX, Yeo_Jhonson and Quantile Transformations)| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/QQ_Plots___Distribution_Transformations.ipynb) | 
+|Stats_Concepts:KS_Test_For_Distribution_Similarity| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/KS_Test_For_Distribution_Similarity.ipynb) | 
+|Stats_Concepts:Hypothesis_testing| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Hypothesis_testing_Simulation.ipynb) | 
+|Stats_Concepts:Confidence_Intervals| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Confidence_Interval_Simulation.ipynb) | 
+|Stats_Concepts:Central_Limit_Theorm| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Central_Limit_Theorm.ipynb) |
+|Stats_Concepts:Bootstraping_and_permutation_resampling_test| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Bootstraping_and_permutation_resampling_test.ipynb) | 
+|Stats_Concepts:Z_and_T_Tests| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Z_and_T_Tests.ipynb) | 
+|Stats_Concepts:Chi_Squared_Test| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Chi_Squared_Test.ipynb) | 
+|Stats_Concepts:ANOVA| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/ANOVA.ipynb) | 
+|handling categorical variables| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/handling%20categorical%20variables/Handling_Categorical_Variables.ipynb) | 
+|Outlier_or_Anomoly_Detection| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Outlier_or_Anomoly_Detection/Outlier_Anomoly_Detection_%26_Treatment_Techniques.ipynb) | 
+|Feature_Selection_Techniques| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Feature_Selection_techniques/Feature_Selection.ipynb) | 
+|Handling_Data_imbalance| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Imbalanced_Data/Handling_imbalance_Using_Resampling.ipynb) | 
+|Handling_Missing_Values| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Missing_Value_Treatment/Missing_Value_Treatment.ipynb) | 
+|Dimensionality_Reduction: PCA (Principal Component Analysis)| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
+|Dimensionality_Reduction: TSNE (T-Distributed Stochastic Neighbourhood Embedding)| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
+|Dimensionality_Reduction: UMAP (Uniform Manifold Approximation and Projection for Dimension Reduction)| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
 
 # Machine_Learning
 
