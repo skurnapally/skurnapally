@@ -15,10 +15,9 @@
 <li>📝 I write articles on <a href="https://medium.com/@skurnapally">Medium</a>.</li>
 <li>📙 Check out my <a href="google.com">resume</a>.</li>
 <li>🎉 Fun Fact: I enjoy playing Football,Interested in World History,Travelling, Cooking and most importantly i am a hardcore foodie。</li>
-<li>📫 How to reach me: send me an email at <p style="color:red;"><strong>skurnapally@gmail.com</strong></p></li>
+<li>📫 How to reach me: send me an email at <strong><font color="blue">skurnapally@gmail.com</font> </strong></li>
 </ul>
 
-https://drive.google.com/file/d/1gV7RaH6h463JGcHP8yhf-9RiwVHK-81k/view?usp=share_link
 
 <h3>Things I code with</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761842-1743c493-c2e3-467e-89fe-6f3c7a3c96e1.svg" alt="python" width="40" height="40"/> </a>
