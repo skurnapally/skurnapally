@@ -8,7 +8,9 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🤓 I am Passionate About Machine Learning and Deep Learning and open to share my knowledge on the same with the data science community.</li>
-<li>😎 Completed my <a href="https://drive.google.com/file/d/1gV7RaH6h463JGcHP8yhf-9RiwVHK-81k/view?usp=share_link"><strong>Post Graduation Diploma in Artificial Intelligence and Machine Learning from University of Hyderabad </strong>.</a></li>
+<li>😎 Completed <a href="https://drive.google.com/file/d/1gV7RaH6h463JGcHP8yhf-9RiwVHK-81k/view?usp=share_link"><strong>Post Graduation Diploma in Artificial Intelligence and Machine Learning from University of Hyderabad </strong>.</a></li>
+<li>😎 I am a Microsoft Certified Python Programmer <a href="https://www.credly.com/badges/27856d96-6bbe-45d2-97b7-6fd91020f9f1"><strong>MTA: Introduction to Programming Using Python - Certified 2019</strong>.</a></li>
+<li>😎 I am a Udemy Certified Machine Learning Engineer <a href="https://drive.google.com/file/d/1AH2KgyS9a02JDL8P_BgJTdn3OdzLNKq5/view?usp=share_link"><strong>Machine Learning A-Z™: Python & R in Data Science [2023]</strong>.</a></li>
 <li>👨‍💻 Most of my work is available on <a href="https://github.com/skurnapally?tab=repositories">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://medium.com/@skurnapally">Medium</a>.</li>
 <li>💬 Ping me about <strong>Machine Learning and Deep Learning</strong>.</li>
