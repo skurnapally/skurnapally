@@ -111,7 +111,7 @@
 
 | Title        | Repository    | 
 | ------------- |:-------------:|
-|EDA:UniVariate_Analysis| [🔗]https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
+|EDA:UniVariate_Analysis| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
 |EDA:BiVariate_Anaysis| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
 |EDA:MultiVariate_Anaysis| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
 |Text_Processing| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Amazon_Fine_Food_Reviews_Text_Data_Analysis.ipynb) | 
