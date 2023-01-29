@@ -8,8 +8,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🤓 I am Passionate About Machine Learning and Deep Learning and open to share my knowledge on the same with the data science community.</li>
-<li>📙 you can follow <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Hand Book</a>.</li>
-<li>😎 Completed my <strong>Post Graduation Diploma in Artificial Intelligence and Machine Learning from University of Hyderabad </strong>.</li>
+<li>😎 Completed my <a href="https://drive.google.com/file/d/1gV7RaH6h463JGcHP8yhf-9RiwVHK-81k/view?usp=share_link"><strong>Post Graduation Diploma in Artificial Intelligence and Machine Learning from University of Hyderabad </strong>.</a></li>
 <li>👨‍💻 Most of my work is available on <a href="https://github.com/skurnapally?tab=repositories">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://medium.com/@skurnapally">Medium</a>.</li>
 <li>💬 Ping me about <strong>Machine Learning and Deep Learning</strong>.</li>
@@ -18,6 +17,7 @@
 <li>📫 How to reach me: send me an email at skurnapally@gmail.com</li>
 </ul>
 
+https://drive.google.com/file/d/1gV7RaH6h463JGcHP8yhf-9RiwVHK-81k/view?usp=share_link
 
 <h3>Things I code with</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761842-1743c493-c2e3-467e-89fe-6f3c7a3c96e1.svg" alt="python" width="40" height="40"/> </a>
