@@ -97,7 +97,6 @@
 |Web_APIs| [🔗](https://github.com/skurnapally/Web_APIs) |  | |
 |Web_Scraping| [🔗](https://github.com/skurnapally/Web_Scraping) |  | [🔗](https://www.dataquest.io/wp-content/uploads/2019/03/python-regular-expressions-cheat-sheet.pdf) |
 
-<li>📙 you can follow <a href="https://drive.google.com/file/d/1XOclKzLs3s_M9cNO9ykx1VMkWMGl_Voy/view?usp=sharing">Python Text Book</a>.</li>
 <li>📙 you can follow <a href="https://jakevdp.github.io/PythonDataScienceHandbook/">Python Data Science Hand Book</a>.</li>
 <li>📙 you can follow <a href="https://www.nrigroupindia.com/e-book/Introduction%20to%20Machine%20Learning%20with%20Python%20(%20PDFDrive.com%20)-min.pdf">Introduction to Machine Learning with Python</a>.</li>
 <li>Python practice <a href="https://leetcode.com/problemset/all/">Leet Code</a> </li>
