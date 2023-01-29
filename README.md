@@ -134,7 +134,7 @@
 | Title        | Repository    | 
 | ------------- |:-------------:|
 |Handling_Data_imbalance| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Imbalanced_Data/Handling_imbalance_Using_Resampling.ipynb) | 
-|Continuos_Variable_Standardisation|([🔗]https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day24-standardization/day24.ipynb)|
+|Continuos_Variable_Standardisation|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day24-standardization/day24.ipynb)|
 |Continuos_Variable_Normalisation|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day25-normalization/day25.ipynb)|
 |handling_categorical_variables| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/handling%20categorical%20variables/Handling_Categorical_Variables.ipynb) | 
 |Understanding_Ordinal_Encoding|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day26-ordinal-encoding/day26.ipynb)|
