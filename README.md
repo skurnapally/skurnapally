@@ -54,19 +54,20 @@
 1. [Maths_for_Data_Science](#Maths_for_Data_Science)
 2. [Pre_Requisites_For_Data_Science](#Pre_Requisites_For_Data_Science)
 3. [Data_Analysis_And_Visualisation](#Data_Analysis_And_Visualisation)
-4. [Machine_Learning](#Machine_Learning)
+4. [Feature_Engineering](#Feature_Engineering)
+5. [Machine_Learning](#Machine_Learning)
 
-	4.1 [Classification](#Classification)
+	5.1 [Classification](#Classification)
 	
-	4.2 [Regression](#Regression)
+	5.2 [Regression](#Regression)
 	
-	4.3 [Time_Series_Analysis](#Time_Series_Analysis)
+	5.3 [Time_Series_Analysis](#Time_Series_Analysis)
 	
-5. [Machine_Learning_Case_Studies](#Machine_Learning_Case_Studies)
-6. [Advanced_Machine_Learning](#Advanced_Machine_Learning)
-7. [Deep_Learning](#Deep_Learning)
-8. [Deep_Learning_Case_Studies](#Deep_Learning_Case_Studies)
-9. [Explainable_AI](#Explainable_AI)
+6. [Machine_Learning_Case_Studies](#Machine_Learning_Case_Studies)
+7. [Advanced_Machine_Learning](#Advanced_Machine_Learning)
+8. [Deep_Learning](#Deep_Learning)
+9. [Deep_Learning_Case_Studies](#Deep_Learning_Case_Studies)
+10.[Explainable_AI](#Explainable_AI)
 
 # Maths_for_Data_Science
 
@@ -114,6 +115,7 @@
 |EDA:UniVariate_Analysis| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
 |EDA:BiVariate_Anaysis| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
 |EDA:MultiVariate_Anaysis| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Exploratory_Data_Analysis.ipynb) | 
+|Pandas_Profiling|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day22-pandas-profiling/day22.ipynb)|
 |Text_Processing| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Amazon_Fine_Food_Reviews_Text_Data_Analysis.ipynb) | 
 |Implementing_TF_IDF_From_Scratch| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Exploratory_data_analysis%20/Implementing_TF_IDF_from_Scratch.ipynb) | 
 |Stats_Concepts:QQ_Plots| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/QQ_Plots___Distribution_Transformations.ipynb) | 
@@ -126,11 +128,40 @@
 |Stats_Concepts:Z_and_T_Tests| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Z_and_T_Tests.ipynb) | 
 |Stats_Concepts:Chi_Squared_Test| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/Chi_Squared_Test.ipynb) | 
 |Stats_Concepts:ANOVA| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/statistical_tests/ANOVA.ipynb) | 
-|handling categorical variables| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/handling%20categorical%20variables/Handling_Categorical_Variables.ipynb) | 
-|Outlier_or_Anomoly_Detection| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Outlier_or_Anomoly_Detection/Outlier_Anomoly_Detection_%26_Treatment_Techniques.ipynb) | 
-|Feature_Selection_Techniques| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Feature_Selection_techniques/Feature_Selection.ipynb) | 
+
+# Feature_Engineering
+
+| Title        | Repository    | 
+| ------------- |:-------------:|
 |Handling_Data_imbalance| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Imbalanced_Data/Handling_imbalance_Using_Resampling.ipynb) | 
+|Continuos_Variable_Standardisation|([🔗]https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day24-standardization/day24.ipynb)|
+|Continuos_Variable_Normalisation|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day25-normalization/day25.ipynb)|
+|handling_categorical_variables| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/handling%20categorical%20variables/Handling_Categorical_Variables.ipynb) | 
+|Understanding_Ordinal_Encoding|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day26-ordinal-encoding/day26.ipynb)|
+|Understanding_OneHot_Encoding|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/tree/main/100-days-of-machine-learning/day27-one-hot-encoding/)|
+|Understanding_Column_Transformers|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day28-column-transformer/day28.ipynb)|
+|Understanding_Pipelines|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day29-sklearn-pipelines/titanic-using-pipeline.ipynb)|
+|Understanding_Function_transformers|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day30-function-transformer/day30.ipynb)|
+|Understanding_Power_transformers|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day31-power-transformer/day31.ipynb)|
+|Understanding_Binning_Binarisation|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day32-binning-and-binarization/day32.ipynb)|
+|Understanding_How_To_Handle_Mixed_Variables|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day33-handling-mixed-variables/Untitled.ipynb)|
+|Handling_Date_And_Time|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day34-handling-date-and-time/working-with-dates-and-time.ipynb)|
 |Handling_Missing_Values| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Missing_Value_Treatment/Missing_Value_Treatment.ipynb) | 
+|Complete_Case_Analysis|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day35-complete-case-analysis/day35.ipynb)|
+|Imputing_Numerical_Data_With_Arbitrary_Value_Imputation|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day35-complete-case-analysis/day35.ipynb)|
+|Imputing_Numerical_Data_With_Mean_Median_Value_Imputation|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day36-imputing-numerical-data/mean-median-imputation.ipynb)|
+|Imputing_Categorical_data_Using_Frequent_Value|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day37-handling-missing-categorical-data/frequent-value-imputation.ipynb)|
+|Imputing_Categorical_data_with_Missing_Category|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day37-handling-missing-categorical-data/missing-category-imputation.ipynb)|
+|Using_Missing_Indicator|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day38-missing-indicator/missing-indicator.ipynb)|
+|Automating_Imputer_Parameter_Selection|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day38-missing-indicator/automatically-select-imputer-parameters.ipynb)|
+|KNN_Imputer|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day39-knn-imputer/day39.ipynb)|
+|Iterative_Imputer|[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/Iterative%20Imputer.ipynb)|
+|Outlier_or_Anomoly_Detection| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Outlier_or_Anomoly_Detection/Outlier_Anomoly_Detection_%26_Treatment_Techniques.ipynb) | 
+|Outlier_Handling_Using_ZScore_Method|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day42-outlier-removal-using-zscore/day42.ipynb)|
+|Outlier_Handling_Using_IQR_Method|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day43-outlier-removal-using-iqr-method/day43.ipynb)|
+|Outlier_Handling_Using_Percentile_Method(Winsorization)|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day44-outlier-detection-using-percentiles/day44.ipynb)|
+|Understanding_Feature_Construction_and_Splitting| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day45-feature-construction-and-feature-splitting/day45.ipynb)|
+|Feature_Selection_Techniques| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Feature_Selection_techniques/Feature_Selection.ipynb) | 
 |Dimensionality_Reduction: PCA (Principal Component Analysis)| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
 |Dimensionality_Reduction: TSNE (T-Distributed Stochastic Neighbourhood Embedding)| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
 |Dimensionality_Reduction: UMAP (Uniform Manifold Approximation and Projection for Dimension Reduction)| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Dimensionality_Reduction/PCA_TSNE_and_UMAP.ipynb) | 
@@ -145,42 +176,42 @@
 
 | Title        | Implementation_From_Scratch    | Binary_Classification_Implementation/Regression |Multi_class_Classification_Implementation |Assignment
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-|Performance_Metrics| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Performance_Metrics/Performance%20metric.ipynb) ||| [🔗](https://github.com/skurnapally/Assignments/blob/main/Performance_Metrics/5_Performance_metrics_Instructions.ipynb) | 
-|KNN (K-Nearest Neighbours)| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/K-NN/Implementation_of_LSH_from_Scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/K-NN/Understanding_KNN_Decision_Boundries.ipynb) | [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/K-NN/Multi_Class_Classification_with_KNN.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/KNN/Implementation%20of%20Random_search_cv%20from%20scratch/Assignment_4_Instructions.ipynb) | 
-|Random_Search_CV| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/K-NN/Implementation_of_RandomSearchCV_from_scratch.ipynb) |  || | 
-|Grid_Search_CV| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/K-NN/Implementation_of_gridSearchCV_from_scratch.ipynb) |  |  |  | 
-|Naive_Bayes| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Naive%20Bayes/Understanding_Naive_Bayes_From_Scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Naive%20Bayes/Spam_Mail_detection_using_Naive_bayes.ipynb) |  | [🔗](https://github.com/skurnapally/Assignments/blob/main/Naive_Bayes/NB_Assignment_instructions.ipynb) | 
-|Stochastic_Gradient_Descent| [🔗](https://github.com/skurnapally/Assignments/blob/main/SGD%20using%20Logistic%20Loss/Custom_SGD_Assignment_LR.ipynb) |  |  | [🔗](https://github.com/skurnapally/Assignments/blob/main/SGD%20using%20Logistic%20Loss/Custom_SGD_Assignment_LR.ipynb) | 
-|Logistic_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Logistic%20Regression/Logistic_Regression_from_Scratch.ipynb) |  [🔗](Credit_Fraud_Detection_Using_LogisticRegression.ipynb) | [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Logistic%20Regression/Logistic_regression_for_multiclass.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/Logistic_Regression/Logistic_Regression_from_Scratch_Assignment.ipynb) | 
-|Support_Vector_Classification| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Linear_Support_Vector_Classification_from_Scratch.ipynb)|[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Understanding_Support_Vector_Classification.ipynb)|[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Support_Vector_Classification_for_multiclass.ipynb)|[🔗](https://github.com/skurnapally/Assignments/tree/main/SVM)|
-|One_Class_SVM_For_Outelier_detection| |[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/One_Class_SVM_for_Outlier_detection.ipynb)|||
-|Decision_Tree_Classification| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Decision_Tree_Classifier_from_Scratch.ipynb)|[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Implementing_Decisoin_Tree_Classifier%20_from_Sklearn.ipynb)|[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Implementing_Decision_Trees_in_MultiClass_Setting.ipynb)|[🔗](https://github.com/skurnapally/Assignments/tree/main/Decision_Trees)|
-|Ensemble_Learning:Bagging:Bagging_Classifer| |[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Ensemble_Bagging_Classifer.ipynb)|||
-|Ensemble_Learning:Bagging:Random_Forest_Classifier| |[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_classifier___Extra_trees_classifier.ipynb)||[🔗](https://github.com/skurnapally/Assignments/tree/main/Random_Forest)|
-|Ensemble_Learning:Bagging:Extra_Tree_Classifier| |[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_classifier___Extra_trees_classifier.ipynb)|||
-|Ensemble_Learning:Boosting:GBDT,ADA_Boost,XG_Boost,LightGBM_Classification||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Boosting/Implementation_of_boosting_on_classification_data.ipynb)||[🔗](https://github.com/skurnapally/Assignments/blob/main/GBDT/Assignment_GBDT_Instructions.ipynb)|
-|Ensemble_Learning:Stacking:Stacking_Classifier||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Classifer___Voting_classifier.ipynb)|||
-|Ensemble_Learning:Stacking:Voting_Classifier||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Classifer___Voting_classifier.ipynb)|||
-|Ensemble_Learning:Cascading||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Cascading/Credit_Card_Fraud_Detection_using_cascading.ipynb)|||
+|Performance_Metrics| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Performance_Metrics/Performance%20metric.ipynb) ||| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Performance_Metrics/5_Performance_metrics_Instructions.ipynb) | 
+|KNN (K-Nearest Neighbours)| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/K-NN/Implementation_of_LSH_from_Scratch.ipynb) |  [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/K-NN/Understanding_KNN_Decision_Boundries.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/K-NN/Multi_Class_Classification_with_KNN.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/KNN/Implementation%20of%20Random_search_cv%20from%20scratch/Assignment_4_Instructions.ipynb) | 
+|Random_Search_CV| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/K-NN/Implementation_of_RandomSearchCV_from_scratch.ipynb) |  || | 
+|Grid_Search_CV| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/K-NN/Implementation_of_gridSearchCV_from_scratch.ipynb) |  |  |  | 
+|Naive_Bayes| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Naive%20Bayes/Understanding_Naive_Bayes_From_Scratch.ipynb) |  [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Naive%20Bayes/Spam_Mail_detection_using_Naive_bayes.ipynb) |  | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Naive_Bayes/NB_Assignment_instructions.ipynb) | 
+|Stochastic_Gradient_Descent| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/SGD%20using%20Logistic%20Loss/Custom_SGD_Assignment_LR.ipynb) |  |  | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/SGD%20using%20Logistic%20Loss/Custom_SGD_Assignment_LR.ipynb) | 
+|Logistic_Regression| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Logistic%20Regression/Logistic_Regression_from_Scratch.ipynb) |  [🔗](Credit_Fraud_Detection_Using_LogisticRegression.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Logistic%20Regression/Logistic_regression_for_multiclass.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Logistic_Regression/Logistic_Regression_from_Scratch_Assignment.ipynb) | 
+|Support_Vector_Classification| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Linear_Support_Vector_Classification_from_Scratch.ipynb)|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Understanding_Support_Vector_Classification.ipynb)|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Support_Vector_Classification_for_multiclass.ipynb)|[🔗](https://nbviewer.org/github/skurnapally/Assignments/tree/main/SVM)|
+|One_Class_SVM_For_Outelier_detection| |[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/One_Class_SVM_for_Outlier_detection.ipynb)|||
+|Decision_Tree_Classification| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Decision_Tree_Classifier_from_Scratch.ipynb)|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Implementing_Decisoin_Tree_Classifier%20_from_Sklearn.ipynb)|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Implementing_Decision_Trees_in_MultiClass_Setting.ipynb)|[🔗](https://nbviewer.org/github/skurnapally/Assignments/tree/main/Decision_Trees)|
+|Ensemble_Learning:Bagging:Bagging_Classifer| |[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Ensemble_Bagging_Classifer.ipynb)|||
+|Ensemble_Learning:Bagging:Random_Forest_Classifier| |[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_classifier___Extra_trees_classifier.ipynb)||[🔗](https://nbviewer.org/github/skurnapally/Assignments/tree/main/Random_Forest)|
+|Ensemble_Learning:Bagging:Extra_Tree_Classifier| |[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_classifier___Extra_trees_classifier.ipynb)|||
+|Ensemble_Learning:Boosting:GBDT,ADA_Boost,XG_Boost,LightGBM_Classification||[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Boosting/Implementation_of_boosting_on_classification_data.ipynb)||[🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/GBDT/Assignment_GBDT_Instructions.ipynb)|
+|Ensemble_Learning:Stacking:Stacking_Classifier||[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Classifer___Voting_classifier.ipynb)|||
+|Ensemble_Learning:Stacking:Voting_Classifier||[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Classifer___Voting_classifier.ipynb)|||
+|Ensemble_Learning:Cascading||[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Cascading/Credit_Card_Fraud_Detection_using_cascading.ipynb)|||
 
 
 # Regression
 
  Title        | Implementation_From_Scratch    | Regression_Implementation |Assignment
 | ------------- |:-------------:|:-------------:|:-------------:|
-|Linear_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Linear_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  | 
-|Polynomial_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Polynomial_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) | |  
-|Lasso_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Lasso_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  | 
-|Ridge_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/Ridge_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  |  
-|Eastic_Net_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/ElasticNet_Regression_from_scratch.ipynb) |  [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  |  
-|Support_Vector_Regression| |[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Implementation_of_Support_Vector_Regression.ipynb)| |[🔗](https://github.com/skurnapally/Assignments/tree/main/SVM)|
-|Decision_Tree_Regression| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Decision_Tree_Regression_from_Scratch.ipynb)|[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Implementing_Decison_Tree_Regressor_from_Sklearn.ipynb)||
-|Ensemble_Learning:Bagging:Bagging_Regressor| [🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Ensemble_Bagging_Regressor.ipynb)|||
-|Ensemble_Learning:Bagging:Random_Forest_Regressor| |[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_regressor___Extra_trees_regressor.ipynb)||
-|Ensemble_Learning:Bagging:Extra_Tree_Regressor||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_regressor___Extra_trees_regressor.ipynb)||
-|Ensemble_Learning:Boosting:GBDT,ADA_Boost,XG_Boost,LightGBM_Regression||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Boosting/Implementation_of_boosting_on_regression_data.ipynb)||
-|Ensemble_Learning:Stacking:Stacking_Regressor||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Regressor___Voting_Regressor.ipynb.ipynb.ipynb)||
-|Ensemble_Learning:Stacking:Voting_Regressor||[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Regressor___Voting_Regressor.ipynb.ipynb.ipynb)||
+|Linear_Regression| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Linear_Regression/Linear_Regression_from_scratch.ipynb) |  [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  | 
+|Polynomial_Regression| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Linear_Regression/Polynomial_Regression_from_scratch.ipynb) |  [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) | |  
+|Lasso_Regression| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Linear_Regression/Lasso_Regression_from_scratch.ipynb) |  [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  | 
+|Ridge_Regression| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Linear_Regression/Ridge_Regression_from_scratch.ipynb) |  [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  |  
+|Eastic_Net_Regression| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Linear_Regression/ElasticNet_Regression_from_scratch.ipynb) |  [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Linear_Regression/LinearRegression_on_Boston_Dataset.ipynb) |  |  
+|Support_Vector_Regression| |[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Support%20Vector%20Machines/Implementation_of_Support_Vector_Regression.ipynb)| |[🔗](https://nbviewer.org/github/skurnapally/Assignments/tree/main/SVM)|
+|Decision_Tree_Regression| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Decision_Tree_Regression_from_Scratch.ipynb)|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Decision%20Trees/Implementing_Decison_Tree_Regressor_from_Sklearn.ipynb)||
+|Ensemble_Learning:Bagging:Bagging_Regressor| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Ensemble_Bagging_Regressor.ipynb)|||
+|Ensemble_Learning:Bagging:Random_Forest_Regressor| |[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_regressor___Extra_trees_regressor.ipynb)||
+|Ensemble_Learning:Bagging:Extra_Tree_Regressor||[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Bagging/Implementing_Random_forest_regressor___Extra_trees_regressor.ipynb)||
+|Ensemble_Learning:Boosting:GBDT,ADA_Boost,XG_Boost,LightGBM_Regression||[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Boosting/Implementation_of_boosting_on_regression_data.ipynb)||
+|Ensemble_Learning:Stacking:Stacking_Regressor||[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Regressor___Voting_Regressor.ipynb.ipynb.ipynb)||
+|Ensemble_Learning:Stacking:Voting_Regressor||[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/Ensemble_learning/Stacking/implementing_Ensemble_Stacking_Regressor___Voting_Regressor.ipynb.ipynb.ipynb)||
 
 
 <ul>
@@ -192,22 +223,22 @@
 
 | Title        | Repository    | Assignment |
 | ------------- |:-------------:|:-------------:|
-|Understanding_ACF_&_PACF|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Understanding_ACF_and_PACF.ipynb) | |
-|Understanding_Stationarity_and_Augmented_DickeyFuller_Test_|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Augmented_Dickey-Fuller%20Test.ipynb) | |
-|Time_Series_Smoothing|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Time_Series_Smoothinng_In_Python.ipynb) | |
-|Understanding_AR_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/AR_Model.ipynb) | |
-|Understanding_MA_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/MA_Model.ipynb) | |
-|Understanding_ARMA_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/ARMA_Model.ipynb)| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/ARMA_End_to_End_Time_Series_Analysis.ipynb)| 
-|Understanding_ARIMA|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Stock%20Price%20prediction%20using%20ARIMA%20-%20%20End%20to%20End%20.ipynb) | 
-|SARIMA_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/SARIMA%20Model.ipynb) | 
-|GARCH_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/GARCH%20Model.ipynb) | [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/GARCH%20Stock%20Modeling.ipynb)|
-|VAR_Model|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/VAR%20Model.ipynb) | |
-|Granger_Causality|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Granger%20Causality.ipynb) | |
-|Time_Series_Preprocessing|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Time%20Series%20Data%20Preprocessing.ipynb) | |
-|Model_Selection_Using_AIC_&_BIC|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Model%20Selection.ipynb) | |
-|Anomoly_Detection|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Anomaly%20Detection.ipynb) | |
-|STL_Decomposition|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/STL%20Decomposition.ipynb) | |
-|Time_Series_Prediction_by_Undoing_Stationarity|[🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Undo%20Stationary%20Transformations.ipynb) | |
+|Understanding_ACF_&_PACF|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Understanding_ACF_and_PACF.ipynb) | |
+|Understanding_Stationarity_and_Augmented_DickeyFuller_Test_|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Augmented_Dickey-Fuller%20Test.ipynb) | |
+|Time_Series_Smoothing|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Time_Series_Smoothinng_In_Python.ipynb) | |
+|Understanding_AR_Model|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/AR_Model.ipynb) | |
+|Understanding_MA_Model|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/MA_Model.ipynb) | |
+|Understanding_ARMA_Model|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/ARMA_Model.ipynb)| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/ARMA_End_to_End_Time_Series_Analysis.ipynb)| 
+|Understanding_ARIMA|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Stock%20Price%20prediction%20using%20ARIMA%20-%20%20End%20to%20End%20.ipynb) | 
+|SARIMA_Model|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/SARIMA%20Model.ipynb) | 
+|GARCH_Model|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/GARCH%20Model.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/GARCH%20Stock%20Modeling.ipynb)|
+|VAR_Model|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/VAR%20Model.ipynb) | |
+|Granger_Causality|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Granger%20Causality.ipynb) | |
+|Time_Series_Preprocessing|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Time%20Series%20Data%20Preprocessing.ipynb) | |
+|Model_Selection_Using_AIC_&_BIC|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Model%20Selection.ipynb) | |
+|Anomoly_Detection|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Anomaly%20Detection.ipynb) | |
+|STL_Decomposition|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/STL%20Decomposition.ipynb) | |
+|Time_Series_Prediction_by_Undoing_Stationarity|[🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/TmeSeriesAnalysis/Undo%20Stationary%20Transformations.ipynb) | |
 
 
 
@@ -215,15 +246,15 @@
 
 | Title        | Repository    | 
 | ------------- |:-------------:|
-|Marketing Attribution Using Regression| [🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Marketing_Attribution_Using_Regression) |
-|Microsoft_Malware_detection|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Microsoft_Malware_detection)|
-|PersonalizedCancerDiagnosis|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/PersonalizedCancerDiagnosis)|
-|Quora_Question_Pair_Similarity|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Quora_Question_Pair_Similarity)|
-|Stack_Overflow_Tag_Predictor|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Stack_Overflow_Tag_Predictor)|
-|Facebook_Link_Prediction|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/tree/main/Facebook_Link_Prediction)|
-|NewYork_Taxi_Demand_Prediction|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/blob/main/NewYork_Taxi_Demand_Prediction/NYC%20Final.ipynb)|
-|Amazon_Fashion_recommendation_System|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/blob/main/Amazon_Fashion_Recommendation_System/Amazon_Fashion_Recommendation_System.ipynb)|
-|Netflix_Movie_recommendation_System|[🔗](https://github.com/skurnapally/Machine_Learning_Case_Studies/blob/main/Netflix_Movie_Recommendation/Netflix_Movie.ipynb)|
+|Marketing Attribution Using Regression| [🔗](https://nbviewer.org/github/skurnapally/Machine_Learning_Case_Studies/tree/main/Marketing_Attribution_Using_Regression) |
+|Microsoft_Malware_detection|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning_Case_Studies/tree/main/Microsoft_Malware_detection)|
+|PersonalizedCancerDiagnosis|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning_Case_Studies/tree/main/PersonalizedCancerDiagnosis)|
+|Quora_Question_Pair_Similarity|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning_Case_Studies/tree/main/Quora_Question_Pair_Similarity)|
+|Stack_Overflow_Tag_Predictor|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning_Case_Studies/tree/main/Stack_Overflow_Tag_Predictor)|
+|Facebook_Link_Prediction|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning_Case_Studies/tree/main/Facebook_Link_Prediction)|
+|NewYork_Taxi_Demand_Prediction|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning_Case_Studies/blob/main/NewYork_Taxi_Demand_Prediction/NYC%20Final.ipynb)|
+|Amazon_Fashion_recommendation_System|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning_Case_Studies/blob/main/Amazon_Fashion_Recommendation_System/Amazon_Fashion_Recommendation_System.ipynb)|
+|Netflix_Movie_recommendation_System|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning_Case_Studies/blob/main/Netflix_Movie_Recommendation/Netflix_Movie.ipynb)|
 |Ad_Click_Prediction|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning_Case_Studies/blob/main/AdClickPrediction/apd_EDA.ipynb)|
 
 
@@ -235,18 +266,18 @@
 
 | Title        | Repository    | Assignment
 | ------------- |:-------------:|:-------------:|
-|Calibration_For_Binary_Classifer| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Binary_Classification_With_Calibration.ipynb) | |
-|Calibration_For_Multi_Class_Classifer| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Multi_Class_Classification_with_Calibration.ipynb) ||
-|RANSAC_Regressor_With_PipeLine| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/RANSAC_Regressor/RANSAC_Regression_For_Outliers.ipynb) | |
-|SIFT_for_Image_Matching| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/SIFT/Understanding_SIFT.ipynb) | |
-|K-Means Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Mall_Customer_Segmentation_Using_K-Means_Clustering.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/Clustering_Assignment/Clustering_Assignment.ipynb)|
-|Agglomerative_and_DBSCAN_Clustering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Customer_Personality_Analysis_Using_Agglomerative_Clustering_And_DBSCAN.ipynb) | |
-|Eigen_Faces_Using_PCA| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/EigenFaces/EigenFaces.ipynb) | |
-|(LDA)_Latent_Dirichlet_Allocation_For_Topic_Modeling| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/LDA/Topic_Modeling_0n_Newsgroup_Data_Using_LDA.ipynb) | [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/LDA/Topic_Modeling_Using_LDA.ipynb) |
-|Recommendation_Systems_Using_Content_Based_Recommendation| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) |  |
-|Recommendation_Systems_Using_Collaberative_Filtering| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) | [🔗](https://github.com/skurnapally/Assignments/blob/main/RecommendationSystem_TruncatedSVD/Recommendation_system_assignment_final.ipynb) |
-|Recommendation_Systems_Using_Surprise_Library| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) | |
-|Recommendation_Systems_Using_Machine_Learning| [🔗](https://github.com/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) | |
+|Calibration_For_Binary_Classifer| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Binary_Classification_With_Calibration.ipynb) | |
+|Calibration_For_Multi_Class_Classifer| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/Calibration/Multi_Class_Classification_with_Calibration.ipynb) ||
+|RANSAC_Regressor_With_PipeLine| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/RANSAC_Regressor/RANSAC_Regression_For_Outliers.ipynb) | |
+|SIFT_for_Image_Matching| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/SIFT/Understanding_SIFT.ipynb) | |
+|K-Means Clustering| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Mall_Customer_Segmentation_Using_K-Means_Clustering.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Clustering_Assignment/Clustering_Assignment.ipynb)|
+|Agglomerative_and_DBSCAN_Clustering| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/Clustering/Customer_Personality_Analysis_Using_Agglomerative_Clustering_And_DBSCAN.ipynb) | |
+|Eigen_Faces_Using_PCA| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/EigenFaces/EigenFaces.ipynb) | |
+|(LDA)_Latent_Dirichlet_Allocation_For_Topic_Modeling| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/LDA/Topic_Modeling_0n_Newsgroup_Data_Using_LDA.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/LDA/Topic_Modeling_Using_LDA.ipynb) |
+|Recommendation_Systems_Using_Content_Based_Recommendation| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) |  |
+|Recommendation_Systems_Using_Collaberative_Filtering| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/RecommendationSystem_TruncatedSVD/Recommendation_system_assignment_final.ipynb) |
+|Recommendation_Systems_Using_Surprise_Library| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) | |
+|Recommendation_Systems_Using_Machine_Learning| [🔗](https://nbviewer.org/github/skurnapally/Advanced_Machine_Learning/blob/main/Recommendation_Systems/Recommendation_systems.ipynb) | |
 
 
 # Deep_Learning
@@ -259,13 +290,13 @@
 
 | Title        | Repository    | Assignment
 | ------------- |:-------------:|:-------------:|
-|Understanding_Basics_Of_Tensorflow| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Basics_Of_Tensorflow.ipynb) | |
-|Understanding_CallBacks_In_Tensorflow| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Understanding_CallBacks_In_Tensorflow.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Callbacks/Call_Backs_Assignment.ipynb)|
+|Understanding_Basics_Of_Tensorflow| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Basics_Of_Tensorflow.ipynb) | |
+|Understanding_CallBacks_In_Tensorflow| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Understanding_CallBacks_In_Tensorflow.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/Callbacks/Call_Backs_Assignment.ipynb)|
 |Binary_Classification_Using_Perceptron_&_Multi_Layered_Perceptron_With_HyperParameter_Tuning| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Binary_Classification_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
 |Multi_Class_Classification_With_HyperParameter_Tuning(RandomSearch,Hyperband,Bayesian)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi_Class_Classification_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/MNIST_Multi_Class_Classification/Keras_Mnist.ipynb) |
 |Regression_With_HyperParameter_Tuning(RandomSearch,Hyperband,Bayesian)| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Regression_Using_Perceptron_%26_Multi_Layered_Perceptron_With_Hyperparameter_Tuning.ipynb) | |
 |Understanding_Back_Prop_From_Scratch| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/BackProp_From_Scratch/Backpropagation_from_Scratch_Assignment.ipynb) | |
-|Understanding_Gradient_Tapes| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/Understanding_Gradient_Tapes.ipynb) | |
+|Understanding_Gradient_Tapes| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Understanding_Gradient_Tapes.ipynb) | |
 |understanding_TimeDistributedLayer|[🔗](https://nbviewer.org/github/AtrCheema/ml_tutorials/blob/master/understanding_TimeDistributedLayer.ipynb) | |
 |Multi_Layered_Perceptron_from_scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Building_neural_network_from_scratch.ipynb) | |
 |Auto_Encoders_for_Dmensionality_Reduction| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Auto_Encoders/Auto_Encoders_For_Dimensionality_Reduction.ipynb) | |
@@ -274,7 +305,7 @@
 
 | Title        | Repository    | Assignment
 | ------------- |:-------------:|:-------------:|
-|CNN_from_Scratch| [🔗](https://github.com/skurnapally/Deep_Learning/blob/main/CNN_from_Scratch.ipynb) | |
+|CNN_from_Scratch| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/CNN_from_Scratch.ipynb) | |
 |Binary_Image_Classification_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Binary_Image_Classification/Binary_Image_Classification_Using_Convolution_Nueral_Networks.ipynb) | |
 |Multi_Class_Image_Classification_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Multi-Class-imageclassification/Multi_Class_Image_Classification_Using_Convolution_Nueral_Networks.ipynb) | |
 |Text_Classificaton_Using_CNN| [🔗](https://nbviewer.org/github/skurnapally/Assignments/blob/main/CNN_with_textdata/Text%20Classification%20Assignment.ipynb) | |
