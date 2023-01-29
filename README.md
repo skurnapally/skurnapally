@@ -15,7 +15,7 @@
 <li>📝 I write articles on <a href="https://medium.com/@skurnapally">Medium</a>.</li>
 <li>📙 Check out my <a href="google.com">resume</a>.</li>
 <li>🎉 Fun Fact: I enjoy playing Football,Interested in World History,Travelling, Cooking and most importantly i am a hardcore foodie。</li>
-<li>📫 How to reach me: send me an email at <strong>skurnapally@gmail.com</strong></li>
+<li>📫 How to reach me: send me an email at <p style="color:red;"><strong>skurnapally@gmail.com</strong></p></li>
 </ul>
 
 https://drive.google.com/file/d/1gV7RaH6h463JGcHP8yhf-9RiwVHK-81k/view?usp=share_link
