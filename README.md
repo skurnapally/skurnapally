@@ -14,7 +14,7 @@
 <li>👨‍💻 Most of my work is available on <a href="https://github.com/skurnapally?tab=repositories">Github</a>.</li>
 <li>📝 I write articles on <a href="https://medium.com/@skurnapally">Medium</a>.</li>
 <li>📙 Check out my <a href="google.com">resume</a>.</li>
-<li>🎉 Fun Fact: I enjoy playing Football,Interested in World History,Travelling, Cooking and most importantly i am a hardcore foodie。</li>
+<li>🎉 Fun Fact: I enjoy playing Football,Interested in Technology,World History,Travelling, Cooking and most importantly i am a hardcore foodie。</li>
 <li>📫 How to reach me: send me an email at <strong><font color="blue">skurnapally@gmail.com</font> </strong></li>
 </ul>
 
@@ -154,7 +154,7 @@
 |Using_Missing_Indicator|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day38-missing-indicator/missing-indicator.ipynb)|
 |Automating_Imputer_Parameter_Selection|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day38-missing-indicator/automatically-select-imputer-parameters.ipynb)|
 |KNN_Imputer|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day39-knn-imputer/day39.ipynb)|
-|Iterative_Imputer|[🔗](https://github.com/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/Iterative%20Imputer.ipynb)|
+|Iterative_Imputer|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/Iterative%20Imputer.ipynb)|
 |Outlier_or_Anomoly_Detection| [🔗](https://nbviewer.org/github/skurnapally/Data_Analysis_And_Visualisation/blob/main/Outlier_or_Anomoly_Detection/Outlier_Anomoly_Detection_%26_Treatment_Techniques.ipynb) | 
 |Outlier_Handling_Using_ZScore_Method|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day42-outlier-removal-using-zscore/day42.ipynb)|
 |Outlier_Handling_Using_IQR_Method|[🔗](https://nbviewer.org/github/skurnapally/Machine_Learning/blob/main/100-days-of-machine-learning/day43-outlier-removal-using-iqr-method/day43.ipynb)|
@@ -363,7 +363,7 @@
 |Sel_Driving_Car_Implementation_Using_End_To_End_Learning|[Base Model](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Autonomous_Driving/autonomusdrivingusecase.ipynb)|[NVIDIA Research Paper Implementation](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Autonomous_Driving/Implementing_End_End_Learning_For_Self_Driving_Cars.ipynb)|
 |Music_Generation_Using_Char_RNNs|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning_Case_Studies/blob/main/Music_Generation_Using_Char_RNN/Music_Generation_Using_Char_RNNs.ipynb)||
 |Medical_Image_Captioning_on_Chest_X-Rays|[🔗](https://nbviewer.org/github/skurnapally/Medical_Image_Captioning_on_Chest_X-Rays/blob/main/Simple_Encoder_Decoder.ipynb)|[🔗](https://nbviewer.org/github/skurnapally/Medical_Image_Captioning_on_Chest_X-Rays/blob/main/Global_Attention_Encoder_Decoder_Model.ipynb)|
-|Nueral_Machine_Translation_From_English_To_Telugu|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/English_To_Telugu_Nueral_Machine_Translation/Machine_Translation_Using_Encoder_Decoder_and_Bi_Directional_LSTM_Mechanism.ipynb))[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/NMT_English_to_Telugu_Using_Encoder_Decoder_Attention.ipynbv)|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Nueral_Machine_Translation_Using_Transformers_from_scratch.ipynb)|
+|Nueral_Machine_Translation_From_English_To_Telugu|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/English_To_Telugu_Nueral_Machine_Translation/Machine_Translation_Using_Encoder_Decoder_and_Bi_Directional_LSTM_Mechanism.ipynb)[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/NMT_English_to_Telugu_Using_Encoder_Decoder_Attention.ipynbv)|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Nueral_Machine_Translation_Using_Transformers_from_scratch.ipynb)|
 
 # Explainable_AI
 
