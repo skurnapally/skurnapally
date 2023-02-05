@@ -13,7 +13,7 @@
 <li>😎 I am a Udemy Certified Machine Learning Engineer <a href="https://drive.google.com/file/d/1AH2KgyS9a02JDL8P_BgJTdn3OdzLNKq5/view?usp=share_link"><strong>Machine Learning A-Z™: Python & R in Data Science [2023]</strong>.</a></li>
 <li>👨‍💻 Most of my work is available on <a href="https://github.com/skurnapally?tab=repositories">Github</a>.</li>
 <li>📝 I write articles on <a href="https://medium.com/@skurnapally">Medium</a>.</li>
-<li>📙 Check out my <a href="https://nbviewer.org/github/skurnapally/Resume/blob/658e066866a10c92eba945280d4eec16ceeebc31/Santhosh_Kurnapally_Machine_Learning.pdf">resume</a>.</li>
+<li>📙 Check out my <a href="https://nbviewer.org/github/skurnapally/Resume/blob/658e066866a10c92eba945280d4eec16ceeebc31/Santhosh_Kurnapally_Machine_Learning.pdf">Resume</a>.</li>
 <li>🎉 Fun Fact: I enjoy playing Football,Interested in Technology,World History,Travelling, Cooking and most importantly i am a hardcore foodie。</li>
 <li>📫 How to reach me: send me an email at <strong><font color="blue">skurnapally@gmail.com</font> </strong></li>
 </ul>
