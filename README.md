@@ -67,7 +67,7 @@
 7. [Advanced_Machine_Learning](#Advanced_Machine_Learning)
 8. [Deep_Learning](#Deep_Learning)
 9. [Deep_Learning_Case_Studies](#Deep_Learning_Case_Studies)
-10.[Explainable_AI](#Explainable_AI)
+10. [Explainable_AI](#Explainable_AI)
 
 # Maths_for_Data_Science
 
