@@ -379,22 +379,6 @@
 |SHAP_For_Image_Data|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP%20on%20Images.ipynb)|
 
 
-<!-- #################################################################### -->
-
-
-# My GitHub README
-
-Welcome to my README!
-
-<div align="center">
-    <img src="test.svg" width="400" height="400" alt="css-in-readme">
-</div>
-
-
-
-<!-- #################################################################### -->
-
-
 
 <h2>My Blogs on Medium</h2>
 <ul>
