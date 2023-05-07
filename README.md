@@ -70,7 +70,7 @@
 8. [Deep_Learning](#Deep_Learning)
 9. [Deep_Learning_Case_Studies](#Deep_Learning_Case_Studies)
 10. [Explainable_AI](#Explainable_AI)
-11. [AWS Certified Cloud Practitioner][#AWS_Certified_Cloud_Practitioner]
+11. [AWS Certified Cloud Practitioner](#AWS_Certified_Cloud_Practitioner)
 
 # Maths_for_Data_Science
 
