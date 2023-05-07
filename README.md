@@ -409,8 +409,6 @@
 
 # AWS_SageMaker_ML_Engineer
 
-<iframe src='https://github.com/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/1.%20AWS_Essentials_SignUp,Free_Tier_Billing_IAM.pptx' width='100%' height='600px' frameborder='0'>
-
  Title        | Presentation| Implementation|
 | ------------- | ------------- |:-------------:
 |1. AWS_Essentials_SignUp,Free_Tier_Billing_IAM.pptx| [🔗]|[🔗]|
