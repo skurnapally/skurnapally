@@ -411,35 +411,35 @@
 
  Title        | Notes| Implementation|
 | ------------- | ------------- |:-------------:
-|1. AWS_Essentials_SignUp,Free_Tier_Billing_IAM.pptx| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/1.%20AWS_Essentials_SignUp%2CFree_Tier_Billing_IAM.pdf)||
-|2. AWS_Essentials_AI&ML_S3_EC2| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/2.%20AWS_Essentials_AI%26ML_S3_EC2/2.%20AWS_Essentials_AI%26ML_S3_EC2.pdf)||
-|3. AWS_Essentials_Amazon_SageMaker| [🔗]|[🔗]|
-|4. Labeling_Images_in_SageMaker_GroundTruth| [🔗]|[🔗]|
-|5. Text_Boundin_Boxes_Semantic_Labeling_With_Ground_Truth| [🔗]|[🔗]|
-|6. EDA_Part_1| [🔗]|[🔗]|
-|7. EDA_Part_2| [🔗]|[🔗]|
-|8. EDA_Part_3| [🔗]|[🔗]|
-|9. Data_Visualization| [🔗]|[🔗]|
-|10. SageMaker_Data_Wrangler| [🔗]|[🔗]|
-|11. Simple_Linear_Regression_in_SKLearn| [🔗]|[🔗]|
-|12. Simple_Linear_Regression_with_AWS_Linear_Learner| [🔗]|[🔗]|
-|13. Multiple_Linear_Regression_in_SKLearn| [🔗]|[🔗]|
-|14. Multiple_Linear_Regression_with_SageMaker_Linear_Learner| [🔗]|[🔗]|
-|15. Training_Job_from_SageMaker_Console| [🔗]|[🔗]|
-|16. XGboost_in_SKLearn| [🔗]|[🔗]|
-|17. XG_Boost_in_SageMaker| [🔗]|[🔗]|
-|18. AWS_SageMaker_JumpStart| [🔗]|[🔗]|
-|19. Hyperparameters_Optimization_SKLearn| [🔗]|[🔗]|
-|20. Hyperparameters_Optimization_Using_SageMaker| [🔗]|[🔗]|
-|21. Compare_SKLearn_Classifier_Models| [🔗]|[🔗]|
-|22. XG_Boost_Classification| [🔗]|[🔗]|
-|23. KNN_for_Classification| [🔗]|[🔗]|
-|24. AutoGluon_for_Tabular_ML_Regression| [🔗]|[🔗]|
-|25. AutoGluon_for_Tabular_ML_Classification| [🔗]|[🔗]|
-|26. SageMaker_Autopilot| [🔗]|[🔗]|
-|27. AWS_SageMaker_Canvas| [🔗]|[🔗]|
-|28. AWS_Lambda_Functions_Basics.pptx| [🔗]|[🔗]|
-|29. AWS_Lambda_Functions_Advanced| [🔗]|[🔗]|
+|1. AWS_Essentials_SignUp,Free_Tier_Billing_IAM.pptx| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/1.%20AWS_Essentials_SignUp%2CFree_Tier_Billing_IAM.pdf)||
+|2. AWS_Essentials_AI&ML_S3_EC2| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/2.%20AWS_Essentials_AI%26ML_S3_EC2/2.%20AWS_Essentials_AI%26ML_S3_EC2.pdf)||
+|3. AWS_Essentials_Amazon_SageMaker| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/3.%20AWS_Essentials_Amazon_SageMaker/3.%20AWS_Essentials_Amazon_SageMaker.pdf)||
+|4. Labeling_Images_in_SageMaker_GroundTruth| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/4.%20Labeling_Images_in_SageMaker_GroundTruth/4.%20Labeling_Images_in_SageMaker_GroundTruth.pdf)||
+|5. Text_Boundin_Boxes_Semantic_Labeling_With_Ground_Truth| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/5.%20Text_Boundin_Boxes_Semantic_Labeling_With_Ground_Truth/5.%20Text_Boundin_Boxes_Semantic_Labeling_With_Ground_Truth.pdf)||
+|6. EDA_Part_1| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/6.%20EDA_Part_1/6.%20EDA_Part_1.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/6.%20EDA_Part_1/6.%20EDA_Part_1.ipynb)|
+|7. EDA_Part_2| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/6.%20EDA_Part_1/6.%20EDA_Part_1.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/7.%20EDA_Part_2/7.%20EDA_Part_2.ipynb)|
+|8. EDA_Part_3| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/8.%20EDA_Part_3/8.%20EDA_Part_3.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/8.%20EDA_Part_3/8.%20EDA_Part_3.ipynb)|
+|9. Data_Visualization| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/9.%20Data_Visualization/9.%20Data_Visualization.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/9.%20Data_Visualization/9.%20Data_Visualization.ipynb)|
+|10. SageMaker_Data_Wrangler| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/10.%20SageMaker_Data_Wrangler/10.%20SageMaker_Data_Wrangler.pdf)||
+|11. Simple_Linear_Regression_in_SKLearn| [🔗] (https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/11.%20Simple_Linear_Regression_in_SKLearn/11.%20Simple_Linear_Regression_in_SKLearn.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/11.%20Simple_Linear_Regression_in_SKLearn/11.%20Simple_Linear_Regression_in_SKLearn.ipynb)|
+|12. Simple_Linear_Regression_with_AWS_Linear_Learner| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/12.%20Simple_Linear_Regression_with_AWS_Linear_Learner/12.%20Simple_Linear_Regression_with_AWS_Linear_Learner.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/12.%20Simple_Linear_Regression_with_AWS_Linear_Learner/12.%20Simple_Linear_Regression_with_AWS_Linear_Learner.ipynb)|
+|13. Multiple_Linear_Regression_in_SKLearn| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/13.%20Multiple_Linear_Regression_in_SKLearn/13.%20Multiple_Linear_Regression_in_SKLearn.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/13.%20Multiple_Linear_Regression_in_SKLearn/13.%20Multiple_Linear_Regression_in_SKLearn.ipynb)|
+|14. Multiple_Linear_Regression_with_SageMaker_Linear_Learner| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/14.%20Multiple_Linear_Regression_with_SageMaker_Linear_Learner/14.%20Multiple_Linear_Regression_with_SageMaker_Linear_Learner.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/14.%20Multiple_Linear_Regression_with_SageMaker_Linear_Learner/14.%20Multiple_Linear_Regression_with_SageMaker_Linear_Learner.ipynb)|
+|15. Training_Job_from_SageMaker_Console| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/15.%20Training_Job_from_SageMaker_Console/15.%20Training_Job_from_SageMaker_Console.pdf)||
+|16. XGboost_in_SKLearn| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/16.%20XGboost_in_SKLearn/16.%20XGboost_in_SKLearn.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/16.%20XGboost_in_SKLearn/16.%20XGboost_in_SKLearn.ipynb)|
+|17. XG_Boost_in_SageMaker| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/17.%20XG_Boost_in_SageMaker/17.%20XG_Boost_in_SageMaker.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/17.%20XG_Boost_in_SageMaker/17.%20XG_Boost_in_SageMaker.ipynb)|
+|18. AWS_SageMaker_JumpStart| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/18.%20AWS_SageMaker_JumpStart/18.%20AWS_SageMaker_JumpStart.pdf)||
+|19. Hyperparameters_Optimization_SKLearn| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/19.%20Hyperparameters_Optimization_SKLearn/19.%20Hyperparameters_Optimization_SKLearn.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/19.%20Hyperparameters_Optimization_SKLearn/19.%20Hyperparameters_Optimization_SKLearn.ipynb)|
+|20. Hyperparameters_Optimization_Using_SageMaker| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/20.%20Hyperparameters_Optimization_Using_SageMaker/20.%20Hyperparameters_Optimization_Using_SageMaker.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/20.%20Hyperparameters_Optimization_Using_SageMaker/20.%20Hyperparameters_Optimization_Using_SageMaker.ipynb)|
+|21. Compare_SKLearn_Classifier_Models| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/21.%20Compare_SKLearn_Classifier_Models/21.%20Compare_SKLearn_Classifier_Models.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/21.%20Compare_SKLearn_Classifier_Models/21.%20Compare_SKLearn_Classifier_Models%20-%20Telecom%20Customers%20Churn%20Prediction.ipynb)|
+|22. XG_Boost_Classification| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/22.%20XG_Boost_Classification/22.%20XG_Boost_Classification.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/22.%20XG_Boost_Classification/22.%20XG_Boost_Classification%20-%20Credit%20Card%20Default%20Prediction.ipynb)|
+|23. KNN_for_Classification| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/23.%20KNN_for_Classification/23.%20KNN_for_Classification.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/23.%20KNN_for_Classification/23.%20KNN_for_Classification%20in%20SageMaker%20for%20Kyphosis%20Disease%20Classification.ipynb)|
+|24. AutoGluon_for_Tabular_ML_Regression| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/24.%20AutoGluon_for_Tabular_ML_Regression/24.%20AutoGluon_for_Tabular_ML_Regression.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/24.%20AutoGluon_for_Tabular_ML_Regression/24.%20AutoGluon_for_Tabular_ML_Regression.ipynb)|
+|25. AutoGluon_for_Tabular_ML_Classification| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/25.%20AutoGluon_for_Tabular_ML_Classification/25.%20AutoGluon_for_Tabular_ML_Classification.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/25.%20AutoGluon_for_Tabular_ML_Classification/25.%20AutoGluon_for_Tabular_ML_Classification.ipynb)|
+|26. SageMaker_Autopilot| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/26.%20SageMaker_Autopilot/26.%20SageMaker_Autopilot.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/26.%20SageMaker_Autopilot/Insurance_Prediction_AutoPilot_Startup.ipynb)|
+|27. AWS_SageMaker_Canvas| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/27.%20AWS_SageMaker_Canvas/27.%20AWS_SageMaker_Canvas%20-Employee%20Attrition%20Prediction.pdf)||
+|28. AWS_Lambda_Functions_Basics.pptx| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/28.%20AWS_Lambda_Functions_Basics.pdf)||
+|29. AWS_Lambda_Functions_Advanced| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/29.%20AWS_Lambda_Functions_Advanced/29.%20AWS_Lambda_Functions_Advanced.pdf)|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/29.%20AWS_Lambda_Functions_Advanced/29.%20AWS_Lambda_Functions_Advanced%20-%20Invoke%20a%20Lambda%20Function%20Using%20Boto3%20SDK.ipynb)|
 
 
 
