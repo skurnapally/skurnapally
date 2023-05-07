@@ -409,16 +409,42 @@
 
 # AWS_SageMaker_ML_Engineer
 
- Title        | Implementation|
-| ------------- |:-------------:
-|Model_Explanation_Using_Decision_Trees| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/Decision_Tree_for_Exaplainable_AI.ipynb)|
-|LIME_For_Tabular_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/LIME_Implementation.ipynb)|
-|LIME_For_Text_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/LIME_Implementation.ipynb)|
-|LIME_For_Image_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/LIME_Implementation.ipynb)|
-|SHAP_For_Regression| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP_Regression.ipynb)|
-|SHAP_For_Classification| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP-MultiClassClassification.ipynb)|
-|SHAP_For_Text_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/Explainable%20AI%20%28XAI%29%20SHAP%20on%20NLP%20.ipynb)|
-|SHAP_For_Image_Data|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP%20on%20Images.ipynb)|
+<iframe src='https://github.com/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/1.%20AWS_Essentials_SignUp,Free_Tier_Billing_IAM.pptx' width='100%' height='600px' frameborder='0'>
+
+ Title        | Presentation| Implementation|
+| ------------- | ------------- |:-------------:
+|1. AWS_Essentials_SignUp,Free_Tier_Billing_IAM.pptx| [🔗]|[🔗]|
+|2. AWS_Essentials_AI&ML_S3_EC2| [🔗]|[🔗]|
+|3. AWS_Essentials_Amazon_SageMaker| [🔗]|[🔗]|
+|4. Labeling_Images_in_SageMaker_GroundTruth| [🔗]|[🔗]|
+|5. Text_Boundin_Boxes_Semantic_Labeling_With_Ground_Truth| [🔗]|[🔗]|
+|6. EDA_Part_1| [🔗]|[🔗]|
+|7. EDA_Part_2| [🔗]|[🔗]|
+|8. EDA_Part_3| [🔗]|[🔗]|
+|9. Data_Visualization| [🔗]|[🔗]|
+|10. SageMaker_Data_Wrangler| [🔗]|[🔗]|
+|11. Simple_Linear_Regression_in_SKLearn| [🔗]|[🔗]|
+|12. Simple_Linear_Regression_with_AWS_Linear_Learner| [🔗]|[🔗]|
+|13. Multiple_Linear_Regression_in_SKLearn| [🔗]|[🔗]|
+|14. Multiple_Linear_Regression_with_SageMaker_Linear_Learner| [🔗]|[🔗]|
+|15. Training_Job_from_SageMaker_Console| [🔗]|[🔗]|
+|16. XGboost_in_SKLearn| [🔗]|[🔗]|
+|17. XG_Boost_in_SageMaker| [🔗]|[🔗]|
+|18. AWS_SageMaker_JumpStart| [🔗]|[🔗]|
+|19. Hyperparameters_Optimization_SKLearn| [🔗]|[🔗]|
+|20. Hyperparameters_Optimization_Using_SageMaker| [🔗]|[🔗]|
+|21. Compare_SKLearn_Classifier_Models| [🔗]|[🔗]|
+|22. XG_Boost_Classification| [🔗]|[🔗]|
+|23. KNN_for_Classification| [🔗]|[🔗]|
+|24. AutoGluon_for_Tabular_ML_Regression| [🔗]|[🔗]|
+|25. AutoGluon_for_Tabular_ML_Classification| [🔗]|[🔗]|
+|26. SageMaker_Autopilot| [🔗]|[🔗]|
+|27. AWS_SageMaker_Canvas| [🔗]|[🔗]|
+|28. AWS_Lambda_Functions_Basics.pptx| [🔗]|[🔗]|
+|29. AWS_Lambda_Functions_Advanced| [🔗]|[🔗]|
+
+
+
 
 
 
