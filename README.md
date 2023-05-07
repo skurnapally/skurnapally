@@ -409,6 +409,10 @@
 
 # AWS_SageMaker_ML_Engineer
 
+<ul>
+<li><a href="https://www.udemy.com/course/become-an-aws-machine-learning-engineer-in-30-days-new-2022/learn/lecture/32552834?start=45#overview">Course Credit - 2023 Become a AWS SageMaker ML Engineer in 30 Days + ChatGPT</a> </li>
+</ul>
+
  Title        | Notes| Implementation|
 | ------------- | ------------- |:-------------:
 |1. AWS_Essentials_SignUp,Free_Tier_Billing_IAM.pptx| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/c0d567a25f35e50494c561eb9db5d90ddeaf67e6/AWS_SageMaker/1.%20AWS_Essentials_SignUp%2CFree_Tier_Billing_IAM.pdf)||
