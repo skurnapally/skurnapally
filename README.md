@@ -71,6 +71,7 @@
 9. [Deep_Learning_Case_Studies](#Deep_Learning_Case_Studies)
 10. [Explainable_AI](#Explainable_AI)
 11. [AWS Certified Cloud Practitioner](#AWS_Certified_Cloud_Practitioner)
+12. [AWS SageMaker ML Engineer](#AWS_SageMaker_ML_Engineer)
 
 # Maths_for_Data_Science
 
@@ -387,13 +388,38 @@
 <li><a href="https://explore.skillbuilder.aws/learn/course/134/aws-cloud-practitioner-essentials">Click here for free course on AWS Cloud Practitioner Essentials</a> </li>
 </ul>
 
-<ul>
-<li><a href="https://drive.google.com/file/d/1egoylg8mnN6X_GZVBW2glLc3Fv0evDrM/view?usp=share_link">Click here for AWS Cloud Practitioner Essentials Notes for quick reference</a> </li>
-</ul>
+ Module        | Notes	|
+| ------------- |:-------------:
+|Module 1 – Introduction to Amazon Web Services| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%201%20%E2%80%93%20Introduction%20to%20Amazon%20Web%20Services.pdf)|
+|Module 2 – Compute in the Cloud| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%202%20%E2%80%93%20Compute%20in%20the%20Cloud.pdf)|
+|Module 3 – Global Infrastructure and Reliability| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%203%20%E2%80%93%20Global%20Infrastructure%20and%20Reliability.pdf)|
+|Module 4 – Networking| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%204%20%E2%80%93%20Networking.pdf)|
+|Module 5 – Storage and Databases| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%205%20%E2%80%93%20Storage%20and%20Databases.pdf)|
+|Module 6 – Security| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%206%20%E2%80%93%20Security.pdf)|
+|Module 7 – Monitoring and Analytics| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%207%20%E2%80%93%20Monitoring%20and%20Analytics.pdf)|
+|Module 8 – Pricing and Support|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%208%20%E2%80%93%20Pricing%20and%20Support.pdf)|
+|Module 9 – Migration and Innovation|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%209%20%E2%80%93%20Migration%20and%20Innovation.pdf)|
+|Module 10 – The Cloud Journey[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%2010%20%E2%80%93%20The%20Cloud%20Journey.pdf)|
+|Module 11 – AWS Certified Cloud Practitioner Basics|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%2011%20%E2%80%93%20AWS%20Certified%20Cloud%20Practitioner%20Basics.pdf)|
+|Module 12 – Final Assessment|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%2012%20%E2%80%93%20Final%20Assessment.pdf)|
 
 <ul>
 <li><a href="https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/">Click here for AWS Cloud Practitioner Essentials Preparation Questions</a> </li>
 </ul>
+
+# AWS_SageMaker_ML_Engineer
+
+ Title        | Implementation|
+| ------------- |:-------------:
+|Model_Explanation_Using_Decision_Trees| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/Decision_Tree_for_Exaplainable_AI.ipynb)|
+|LIME_For_Tabular_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/LIME_Implementation.ipynb)|
+|LIME_For_Text_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/LIME_Implementation.ipynb)|
+|LIME_For_Image_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/LIME_Implementation.ipynb)|
+|SHAP_For_Regression| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP_Regression.ipynb)|
+|SHAP_For_Classification| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP-MultiClassClassification.ipynb)|
+|SHAP_For_Text_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/Explainable%20AI%20%28XAI%29%20SHAP%20on%20NLP%20.ipynb)|
+|SHAP_For_Image_Data|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP%20on%20Images.ipynb)|
+
 
 
 <h2>My Blogs on Medium</h2>
