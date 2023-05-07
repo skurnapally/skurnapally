@@ -399,7 +399,7 @@
 |Module 7 – Monitoring and Analytics| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%207%20%E2%80%93%20Monitoring%20and%20Analytics.pdf)|
 |Module 8 – Pricing and Support|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%208%20%E2%80%93%20Pricing%20and%20Support.pdf)|
 |Module 9 – Migration and Innovation|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%209%20%E2%80%93%20Migration%20and%20Innovation.pdf)|
-|Module 10 – The Cloud Journey[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%2010%20%E2%80%93%20The%20Cloud%20Journey.pdf)|
+|Module 10 – The Cloud Journey|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%2010%20%E2%80%93%20The%20Cloud%20Journey.pdf)|
 |Module 11 – AWS Certified Cloud Practitioner Basics|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%2011%20%E2%80%93%20AWS%20Certified%20Cloud%20Practitioner%20Basics.pdf)|
 |Module 12 – Final Assessment|[🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS%20Certified%20Cloud%20Practioner/Notes/Module%2012%20%E2%80%93%20Final%20Assessment.pdf)|
 
