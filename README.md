@@ -70,6 +70,7 @@
 8. [Deep_Learning](#Deep_Learning)
 9. [Deep_Learning_Case_Studies](#Deep_Learning_Case_Studies)
 10. [Explainable_AI](#Explainable_AI)
+11. [AWS Certified Cloud Practitioner][#AWS_Certified_Cloud_Practitioner]
 
 # Maths_for_Data_Science
 
@@ -380,6 +381,19 @@
 |SHAP_For_Text_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/Explainable%20AI%20%28XAI%29%20SHAP%20on%20NLP%20.ipynb)|
 |SHAP_For_Image_Data|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP%20on%20Images.ipynb)|
 
+# AWS_Certified_Cloud_Practitioner
+
+<ul>
+<li><a href="https://explore.skillbuilder.aws/learn/course/134/aws-cloud-practitioner-essentials">Click here for free course on AWS Cloud Practitioner Essentials</a> </li>
+</ul>
+
+<ul>
+<li><a href="https://drive.google.com/file/d/1egoylg8mnN6X_GZVBW2glLc3Fv0evDrM/view?usp=share_link">Click here for AWS Cloud Practitioner Essentials Notes for quick reference</a> </li>
+</ul>
+
+<ul>
+<li><a href="https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/view/">Click here for AWS Cloud Practitioner Essentials Preparation Questions</a> </li>
+</ul>
 
 
 <h2>My Blogs on Medium</h2>
