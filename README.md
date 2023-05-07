@@ -409,10 +409,10 @@
 
 # AWS_SageMaker_ML_Engineer
 
- Title        | Presentation| Implementation|
+ Title        | Notes| Implementation|
 | ------------- | ------------- |:-------------:
-|1. AWS_Essentials_SignUp,Free_Tier_Billing_IAM.pptx| [🔗]|[🔗]|
-|2. AWS_Essentials_AI&ML_S3_EC2| [🔗]|[🔗]|
+|1. AWS_Essentials_SignUp,Free_Tier_Billing_IAM.pptx| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/1.%20AWS_Essentials_SignUp%2CFree_Tier_Billing_IAM.pdf)||
+|2. AWS_Essentials_AI&ML_S3_EC2| [🔗](https://nbviewer.org/github/skurnapally/AWS-Cloud/blob/main/AWS_SageMaker/2.%20AWS_Essentials_AI%26ML_S3_EC2/2.%20AWS_Essentials_AI%26ML_S3_EC2.pdf)||
 |3. AWS_Essentials_Amazon_SageMaker| [🔗]|[🔗]|
 |4. Labeling_Images_in_SageMaker_GroundTruth| [🔗]|[🔗]|
 |5. Text_Boundin_Boxes_Semantic_Labeling_With_Ground_Truth| [🔗]|[🔗]|
