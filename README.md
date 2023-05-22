@@ -70,8 +70,9 @@
 8. [Deep_Learning](#Deep_Learning)
 9. [Deep_Learning_Case_Studies](#Deep_Learning_Case_Studies)
 10. [Explainable_AI](#Explainable_AI)
-11. [AWS Certified Cloud Practitioner](#AWS_Certified_Cloud_Practitioner)
-12. [AWS SageMaker ML Engineer](#AWS_SageMaker_ML_Engineer)
+11. [ChatGPT_Prompt_Engineering_for_Developers](#ChatGPT_Prompt_Engineering_for_Developers)
+12. [AWS Certified Cloud Practitioner](#AWS_Certified_Cloud_Practitioner)
+13. [AWS SageMaker ML Engineer](#AWS_SageMaker_ML_Engineer)
 
 # Maths_for_Data_Science
 
@@ -381,6 +382,27 @@
 |SHAP_For_Classification| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP-MultiClassClassification.ipynb)|
 |SHAP_For_Text_Data| [🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/Explainable%20AI%20%28XAI%29%20SHAP%20on%20NLP%20.ipynb)|
 |SHAP_For_Image_Data|[🔗](https://nbviewer.org/github/skurnapally/Deep_Learning/blob/main/Lime%20and%20Shap/SHAP%20on%20Images.ipynb)|
+
+
+# ChatGPT_Prompt_Engineering_for_Developers
+
+<ul>
+<li><a href="https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction">Click here for free course on ChatGPT Prompt Engineering for Developers on Deeplearning.ai </a> </li>
+</ul>
+
+| Title        | Implementation|
+| ------------- |:-------------:
+|Basic_Guide_Lines_for_Prompting_LLM| [🔗](https://nbviewer.org/github/skurnapally/Web_APIs/blob/main/ChatGPT%20Prompt%20Engineering%20for%20Developers/Basic%20Guide%20Lines%20for%20Prompting%20GPT.ipynb)|
+|Iterative_Prompt_Development_for_LLM| [🔗](https://nbviewer.org/github/skurnapally/Web_APIs/blob/main/ChatGPT%20Prompt%20Engineering%20for%20Developers/Iterative%20Prompt%20Development.ipynb)|
+|Text_Summarization_Using_LLM| [🔗](https://nbviewer.org/github/skurnapally/Web_APIs/blob/main/ChatGPT%20Prompt%20Engineering%20for%20Developers/Text%20Summarization%20Using%20LLMs.ipynb)|
+|Sentiment_&_Topic_Infering_Using_LLM| [🔗](https://nbviewer.org/github/skurnapally/Web_APIs/blob/main/ChatGPT%20Prompt%20Engineering%20for%20Developers/Text%20Summarization%20Using%20LLMs.ipynb)|
+|Text_Transformation_With_LLM| [🔗](https://nbviewer.org/github/skurnapally/Web_APIs/blob/main/ChatGPT%20Prompt%20Engineering%20for%20Developers/Text%20Transformation%20using%20LLM.ipynb)|
+|Text_Expansion_With_LLM| [🔗](https://nbviewer.org/github/skurnapally/Web_APIs/blob/main/ChatGPT%20Prompt%20Engineering%20for%20Developers/Expanding%20Using%20LLM.ipynb)|
+|Building_ChatBot_With_LLM| [🔗](https://nbviewer.org/github/skurnapally/Web_APIs/blob/main/ChatGPT%20Prompt%20Engineering%20for%20Developers/Building%20Chatbot%20Using%20LLM.ipynb)|
+|ChatGPT_For_Programming| [🔗](https://nbviewer.org/github/skurnapally/Web_APIs/blob/main/ChatGPT%20Prompt%20Engineering%20for%20Developers/ChatGPT%20for%20Programmers.ipynb)|
+
+
+
 
 # AWS_Certified_Cloud_Practitioner
 
