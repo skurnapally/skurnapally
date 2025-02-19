@@ -55,7 +55,7 @@
 <a href="https://airflow.apache.org/" target="_blank"> <img src="images/airflow-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
 <a href="https://aws.amazon.com/campaigns/sagemaker/" target="_blank"> <img src="images/Sagemaker.svg" alt="AWS" width="40" height="40"/> </a> 
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="images/hadoop-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
-<a href="https://about.gitlab.com/" target="_blank"> <img src="iimages/gitlab-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
+<a href="https://about.gitlab.com/" target="_blank"> <img src="images/gitlab-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
 <a href="https://www.snowflake.com/en/" target="_blank"> <img src="images/snowflake-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="images/vscode-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
 </p>
