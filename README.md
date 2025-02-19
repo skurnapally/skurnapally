@@ -16,7 +16,7 @@
 </ul>
 
 
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>🌟 A Few Quick Facts</h2>
 <ul>
 <li>😎 Completed <a href="https://drive.google.com/file/d/1gV7RaH6h463JGcHP8yhf-9RiwVHK-81k/view?usp=share_link"><strong>Post Graduation Diploma in Artificial Intelligence and Machine Learning from University of Hyderabad </strong>.</a></li>
 <li>😎 I am a Microsoft Certified Python Programmer <a href="https://www.credly.com/badges/27856d96-6bbe-45d2-97b7-6fd91020f9f1"><strong>MTA: Introduction to Programming Using Python - Certified 2019</strong>.</a></li>
