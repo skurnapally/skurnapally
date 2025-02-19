@@ -12,11 +12,12 @@
 <li>I Have Working Experience in Supervised/Unsupervised ML,NLP,Reinforcement Learning,GENAI and MLOPS.</li>
 <li>Have Working experience in BFSI, Medical and FMCG domains</li>
 <li>🎉 Fun Fact: I enjoy playing Football,Interested in Technology,World History,Travelling, Cooking and most importantly i am a hardcore foodie。</li>
+<!-- <li>📙 Check out my <a href="https://nbviewer.org/github/skurnapally/Resume/blob/5ebbbbf0f3be48e575c869536d8dec8c1bc74f74/Santhosh_Kurnapally_7plus_Years_Machine_Learning.pdf">Resume</a>.</li> -->
 <li>📫 How to reach me: send me an email at <strong><font color="blue">skurnapally@gmail.com</font> </strong></li>
 </ul>
 
 
-<h2>🌟 A Few Quick Facts</h2>
+<h2>🌟🌟 Course and Certifications 🌟🌟</h2>
 <ul>
 <li>😎 Completed <a href="https://drive.google.com/file/d/1gV7RaH6h463JGcHP8yhf-9RiwVHK-81k/view?usp=share_link"><strong>Post Graduation Diploma in Artificial Intelligence and Machine Learning from University of Hyderabad </strong>.</a></li>
 <li>😎 I am a Microsoft Certified Python Programmer <a href="https://www.credly.com/badges/27856d96-6bbe-45d2-97b7-6fd91020f9f1"><strong>MTA: Introduction to Programming Using Python - Certified 2019</strong>.</a></li>
@@ -25,9 +26,6 @@
 <li>😎 Completed AWS Sage Maker ML Engineer Course on Udemy <a href="https://drive.google.com/file/d/1st7Rz_WvilGtzV_73fEZzVGEq91We33L/view"><strong> AWS SageMaker for ML Engineers</strong>.</a></li>
 <li>👨‍💻 Most of my work is available on <a href="https://github.com/skurnapally?tab=repositories">Github</a>.</li>
 <li>📝 I write articles on <a href="https://medium.com/@skurnapally">Medium</a>.</li>
-<!-- <li>📙 Check out my <a href="https://nbviewer.org/github/skurnapally/Resume/blob/5ebbbbf0f3be48e575c869536d8dec8c1bc74f74/Santhosh_Kurnapally_7plus_Years_Machine_Learning.pdf">Resume</a>.</li> -->
-
-
 </ul>
 
 
