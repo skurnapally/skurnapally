@@ -23,9 +23,14 @@
 
 
 <h3>Things I work with</h3>
-<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761842-1743c493-c2e3-467e-89fe-6f3c7a3c96e1.svg" alt="python" width="40" height="40"/> </a>
+<p align="left"> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761842-1743c493-c2e3-467e-89fe-6f3c7a3c96e1.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761764-bb9b0838-604f-4186-82f1-835ccb8313fb.svg" alt="Anaconda" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank"> <img src="images/jupyter-svgrepo-com.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="images/vscode-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/campaigns/sagemaker/" target="_blank"> <img src="images/Sagemaker.svg" alt="AWS" width="60" height="60"/> </a> 
+<a href="https://domino.ai/" target="_blank"> <img src="images/DominoDataLab.svg" alt="AWS" width="40" height="40"/> </a> 
+
 <a href="https://numpy.org/doc/stable/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761768-2f96047a-4231-4439-94c5-0eb58fc6080b.svg" alt="NumPy" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/docs/index.html" target="_blank"> <img src="images/pandas-svgrepo-com.svg" alt="Pandas" width="40" height="40"/> </a> 
 <a href="https://scipy.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761854-c7c3195d-c94f-4ab6-84b8-65a7de0fbee6.svg" alt="Scipy" width="40" height="40"/> </a> 
@@ -36,28 +41,25 @@
 <a href="https://opencv.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761822-1241fb32-ec7e-47eb-8838-1333300b1266.svg" alt="opencv" width="40" height="40"/> </a> 
 <a href="https://keras.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761778-8a410c57-7d03-4fbd-816e-22adec0e9696.svg" alt="karas" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761870-23ef1725-d6a6-4a90-93a5-4bc14c3ae516.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="https://streamlit.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761864-6220ef4a-8c3f-424f-9a1a-4456f41646c1.svg" alt="streamlit" width="40" height="40"/> </a> 
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761735-b2280e15-9d7d-4d6d-b14a-a595d0bd41fa.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://airflow.apache.org/" target="_blank"> <img src="images/airflow-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761859-0f8e558c-bd80-45df-b442-81e5f4a4658b.svg" alt="sql" width="40" height="40"/> </a> 
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="images/hadoop-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
+<a href="https://www.snowflake.com/en/" target="_blank"> <img src="images/snowflake-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/home" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761809-0089d19c-1796-435a-86a6-bdc2144e61a7.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://neo4j.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761815-17a405ca-b74d-4e77-8058-598c51a612d7.svg" alt="neo4j" width="40" height="40"/> </a> 
 <a href="https://www.postman.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761839-ba226adb-1bee-46d6-aba2-1211aa8d3ea1.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://about.gitlab.com/" target="_blank"> <img src="images/gitlab-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761746-ff63074b-fbe0-448c-bb6c-b2e76cebe168.svg" alt="github" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761732-3dd9dc48-6622-4813-94ee-e03b7596d575.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761788-72fe8f69-db6e-42ad-aa37-a0f3aa8743e4.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://www.kubeflow.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204764990-d66ed831-7c9d-4c19-8baa-86dab46fa0d4.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://streamlit.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761864-6220ef4a-8c3f-424f-9a1a-4456f41646c1.svg" alt="streamlit" width="40" height="40"/> </a> 
 <a href="https://www.heroku.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761757-254fe66f-ce65-442e-b4cb-c1838760a122.svg" alt="heroku" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761872-c535c074-7e91-489e-8631-78c0e5799f88.svg" alt="ubuntu" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/" target="_blank"> <img src="images/aws-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761754-ad07e644-2150-409b-8a47-afa4327a71c2.svg" alt="gcp" width="40" height="40"/> </a> 
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204749201-6d181c25-92bd-4fe2-b08e-14d44edeceba.svg" alt="azure" width="40" height="40"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761859-0f8e558c-bd80-45df-b442-81e5f4a4658b.svg" alt="sql" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/home" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761809-0089d19c-1796-435a-86a6-bdc2144e61a7.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://neo4j.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761815-17a405ca-b74d-4e77-8058-598c51a612d7.svg" alt="neo4j" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/" target="_blank"> <img src="images/aws-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
-<a href="https://domino.ai/" target="_blank"> <img src="images/DominoDataLab.svg" alt="AWS" width="40" height="40"/> </a> 
-<a href="https://airflow.apache.org/" target="_blank"> <img src="images/airflow-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/campaigns/sagemaker/" target="_blank"> <img src="images/Sagemaker.svg" alt="AWS" width="40" height="40"/> </a> 
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="images/hadoop-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
-<a href="https://about.gitlab.com/" target="_blank"> <img src="images/gitlab-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
-<a href="https://www.snowflake.com/en/" target="_blank"> <img src="images/snowflake-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="images/vscode-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
 </p>
 
 <h3>Organisations I worked with</h3>
