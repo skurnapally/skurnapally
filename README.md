@@ -50,6 +50,7 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761859-0f8e558c-bd80-45df-b442-81e5f4a4658b.svg" alt="sql" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/home" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761809-0089d19c-1796-435a-86a6-bdc2144e61a7.svg" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://neo4j.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761815-17a405ca-b74d-4e77-8058-598c51a612d7.svg" alt="neo4j" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/" target="_blank"> <img src="images/aws-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
 </p>
 
 <h2>career path for a Machine Learning Engineer </h2>
