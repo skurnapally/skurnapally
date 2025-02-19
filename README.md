@@ -1,6 +1,7 @@
 
 ![Santhosh](https://user-images.githubusercontent.com/87708435/204748750-92d74705-fa20-4245-aa59-0feb23106173.gif)
 
+
 <h2 align="center">Hey! Nice to see you. 👋🤓</h2>
 <p align="center">I am Santhosh Kurnapally, a senior machine learning engineer from Hyderabad,india :india:. Currently working at Wipro and formerly at Infosys and Cognizant.
 </p>
