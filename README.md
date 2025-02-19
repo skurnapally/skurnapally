@@ -73,13 +73,13 @@
 </p>
 
 <h3>Organisations I worked with</h3>
-<p align="left"> <a href="https://www.tcs.com/" target="_blank"> <img src="images/Tcs.svg" alt="python" width="60" height="40"/> </a>
-<a href="" target="_blank"> <img src="" alt="python" width="30" height="30"/> </a>
-<a href="https://www.wipro.com/" target="_blank"> <img src="images/Wipro.svg" alt="python" width="60" height="60"/> </a>
-<a href="" target="_blank"> <img src="" alt="python" width="30" height="30"/> </a>
-<a href="https://www.infosys.com/" target="_blank"> <img src="images/Infosys.svg" alt="python" width="60" height="40"/> </a>
-<a href="" target="_blank"> <img src="" alt="python" width="30" height="30"/> </a>
-<a href="https://www.Cognizant.com/" target="_blank"> <img src="images/Cognizant.svg" alt="python" width="60" height="40"/> </a>
+<p align="left"> <a href="https://www.tcs.com/" target="_blank"> <img src="images/Tcs.svg" alt=" " width="60" height="40"/> </a>
+<a href="" target="_blank"> <img src="" alt=" " width="30" height="30"/> </a>
+<a href="https://www.wipro.com/" target="_blank"> <img src="images/Wipro.svg" alt=" " width="60" height="60"/> </a>
+<a href="" target="_blank"> <img src="" alt=" " width="30" height="30"/> </a>
+<a href="https://www.infosys.com/" target="_blank"> <img src="images/Infosys.svg" alt=" " width="60" height="40"/> </a>
+<a href="" target="_blank"> <img src="" alt=" " width="30" height="30"/> </a>
+<a href="https://www.Cognizant.com/" target="_blank"> <img src="images/Cognizant.svg" alt=" " width="60" height="40"/> </a>
 </p>
 
 <h2>career path for a Machine Learning Engineer </h2>
