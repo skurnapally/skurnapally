@@ -25,7 +25,7 @@
 <h3>Packages/Languages I code with</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761842-1743c493-c2e3-467e-89fe-6f3c7a3c96e1.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761764-bb9b0838-604f-4186-82f1-835ccb8313fb.svg" alt="Anaconda" width="40" height="40"/> </a> 
-<a href="https://jupyter.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761765-43007565-f466-4c15-af24-89226c910929.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> 
+<a href="https://jupyter.org/" target="_blank"> <img src="images/jupyter-svgrepo-com.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> 
 <a href="https://numpy.org/doc/stable/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761768-2f96047a-4231-4439-94c5-0eb58fc6080b.svg" alt="NumPy" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/docs/index.html" target="_blank"> <img src="images/pandas-svgrepo-com.svg" alt="Pandas" width="40" height="40"/> </a> 
 <a href="https://scipy.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761854-c7c3195d-c94f-4ab6-84b8-65a7de0fbee6.svg" alt="Scipy" width="40" height="40"/> </a> 
