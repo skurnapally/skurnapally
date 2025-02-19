@@ -9,13 +9,13 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🤓 I am Passionate About Machine Learning/Deep Learning and GENAI and open to share my knowledge on the same with the data science community.</li>
-<li>I Have Working Experience in Supervised Machine learning, GENAI and MLOPS.</li>
+<li>I Have Working Experience in Supervised/Unsupervised ML,NLP,Reinforcement Learning,GENAI and MLOPS.</li>
 <li>Have Working experience in BFSI, Medical and FMCG domains</li>
 <li>🎉 Fun Fact: I enjoy playing Football,Interested in Technology,World History,Travelling, Cooking and most importantly i am a hardcore foodie。</li>
 <li>📫 How to reach me: send me an email at <strong><font color="blue">skurnapally@gmail.com</font> </strong></li>
 </ul>
 
-|:star2:|
+
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>😎 Completed <a href="https://drive.google.com/file/d/1gV7RaH6h463JGcHP8yhf-9RiwVHK-81k/view?usp=share_link"><strong>Post Graduation Diploma in Artificial Intelligence and Machine Learning from University of Hyderabad </strong>.</a></li>
