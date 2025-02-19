@@ -35,7 +35,7 @@
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761764-bb9b0838-604f-4186-82f1-835ccb8313fb.svg" alt="Anaconda" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank"> <img src="images/jupyter-svgrepo-com.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="images/vscode-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
-<a href="https://aws.amazon.com/campaigns/sagemaker/" target="_blank"> <img src="images/Sagemaker.svg" alt="AWS" width="60" height="60"/> </a> 
+<a href="https://aws.amazon.com/campaigns/sagemaker/" target="_blank"> <img src="images/Sagemaker.svg" alt="AWS" width="60" height="40"/> </a> 
 <a href="https://domino.ai/" target="_blank"> <img src="images/DominoDataLab.svg" alt="AWS" width="40" height="40"/> </a> 
 
 <a href="https://numpy.org/doc/stable/index.html" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761768-2f96047a-4231-4439-94c5-0eb58fc6080b.svg" alt="NumPy" width="40" height="40"/> </a> 
