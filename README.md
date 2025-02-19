@@ -3,12 +3,12 @@
 
 
 <h2 align="center">Hey! Nice to see you. 👋🤓</h2>
-<p align="center">I am Santhosh Kurnapally, a senior machine learning engineer from Hyderabad,india :india:. Currently working at Wipro and formerly at Infosys and Cognizant.
+<p align="center">I am Santhosh Kurnapally, a senior machine learning engineer from Hyderabad,india :india:. Currently working with TCS.
 </p>
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🤓 I am Passionate About Machine Learning and Deep Learning and open to share my knowledge on the same with the data science community.</li>
+<li>🤓 I am Passionate About Machine Learning/Deep Learning and GENAI and open to share my knowledge on the same with the data science community.</li>
 <li>😎 Completed <a href="https://drive.google.com/file/d/1gV7RaH6h463JGcHP8yhf-9RiwVHK-81k/view?usp=share_link"><strong>Post Graduation Diploma in Artificial Intelligence and Machine Learning from University of Hyderabad </strong>.</a></li>
 <li>😎 I am a Microsoft Certified Python Programmer <a href="https://www.credly.com/badges/27856d96-6bbe-45d2-97b7-6fd91020f9f1"><strong>MTA: Introduction to Programming Using Python - Certified 2019</strong>.</a></li>
 <li>😎 I am a Udemy Certified Machine Learning Engineer <a href="https://drive.google.com/file/d/1AH2KgyS9a02JDL8P_BgJTdn3OdzLNKq5/view?usp=share_link"><strong>Machine Learning A-Z™: Python & R in Data Science [2023]</strong>.</a></li>
@@ -22,7 +22,7 @@
 </ul>
 
 
-<h3>Packages/Languages I code with</h3>
+<h3>Things I work with</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761842-1743c493-c2e3-467e-89fe-6f3c7a3c96e1.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.anaconda.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/87708435/204761764-bb9b0838-604f-4186-82f1-835ccb8313fb.svg" alt="Anaconda" width="40" height="40"/> </a> 
 <a href="https://jupyter.org/" target="_blank"> <img src="images/jupyter-svgrepo-com.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> 
@@ -58,6 +58,13 @@
 <a href="https://about.gitlab.com/" target="_blank"> <img src="images/gitlab-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
 <a href="https://www.snowflake.com/en/" target="_blank"> <img src="images/snowflake-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="images/vscode-svgrepo-com.svg" alt="AWS" width="40" height="40"/> </a> 
+</p>
+
+<h3>Organisations I worked with</h3>
+<p align="left"> <a href="https://www.tcs.com/" target="_blank"> <img src="images/Tcs.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.wipro.com/" target="_blank"> <img src="images/Wipro.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.infosys.com/" target="_blank"> <img src="images/Infosys.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.Cognizant.com/" target="_blank"> <img src="images/Cognizant.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
 <h2>career path for a Machine Learning Engineer </h2>
